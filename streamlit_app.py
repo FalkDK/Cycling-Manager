@@ -281,19 +281,27 @@ def app() -> None:
         )
         race_rows["kategori"] = race_rows["pcs_rider_id"].map(kategori_map).fillna("Unmapped")
 
+        kategori_filter = st.multiselect(
+            "Kategori filter",
+            options=["Kategori 1", "Kategori 2", "Kategori 3", "Kategori 4", "Unmapped"],
+            default=["Kategori 1", "Kategori 2", "Kategori 3", "Kategori 4", "Unmapped"],
+            key="dash_kategori_filter",
+        )
+        filtered_race_rows = race_rows[race_rows["kategori"].isin(kategori_filter)].copy()
+
         c1, c2 = st.columns(2)
-        c1.metric("Riders", int(len(race_rows)))
-        c2.metric("Teams", int(race_rows["team_name"].nunique()))
+        c1.metric("Riders", int(len(filtered_race_rows)))
+        c2.metric("Teams", int(filtered_race_rows["team_name"].nunique()))
 
         st.dataframe(
-            race_rows[["rider_name", "team_name", "pcs_rider_id", "kategori"]]
+            filtered_race_rows[["rider_name", "team_name", "pcs_rider_id", "kategori"]]
             .sort_values(["team_name", "rider_name"]),
             use_container_width=True,
             hide_index=True,
         )
 
         team_counts = (
-            race_rows.groupby("team_name", dropna=False)["pcs_rider_id"]
+            filtered_race_rows.groupby("team_name", dropna=False)["pcs_rider_id"]
             .count()
             .reset_index(name="rider_count")
             .sort_values(["rider_count", "team_name"], ascending=[False, True])
