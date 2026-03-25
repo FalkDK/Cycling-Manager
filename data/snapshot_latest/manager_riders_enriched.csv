@@ -409,7 +409,7 @@ holdet_player_id,cartridge_slug,rider_name,kategori,team_name,fetched_at,pcs_rid
 42646,classics-manager-2026,Erlend Blikra,Kategori 4,Uno-X Mobility,2026-02-25 15:30:23.706617+00,erlend-blikra,BLIKRA Erlend,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:20.560352+00
 42649,classics-manager-2026,Ewen Costiou,Kategori 4,Groupama - FDJ United,2026-02-25 15:30:23.706617+00,ewen-costiou,COSTIOU Ewen,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:20.594034+00
 43457,classics-manager-2026,Ezra Caudell,Kategori 4,Modern Adventure Pro Cycling,2026-02-25 15:30:23.706617+00,ezra-caudell,Ezra Caudell,APPROVED,1.0000,manual_verified_pcs_slug,2026-02-25 17:12:57.254626+00
-42650,classics-manager-2026,Fabian Lienhard,Kategori 4,Tudor Pro Cycling Team,2026-02-25 15:30:23.706617+00,fabian-lienhard,Lienhard Fabian,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:20.629319+00
+42650,classics-manager-2026,Fabian Lienhard,Kategori 4,Tudor Pro Cycling Team,2026-02-25 15:30:23.706617+00,fabian-lienhard,LIENHARD Fabian,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:20.629319+00
 42651,classics-manager-2026,Fabian Weiss,Kategori 4,Tudor Pro Cycling Team,2026-02-25 15:30:23.706617+00,fabian-weiss,WEISS Fabian,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:20.660979+00
 42652,classics-manager-2026,Fabien Doubey,Kategori 4,TotalEnergies,2026-02-25 15:30:23.706617+00,fabien-doubey,Doubey Fabien,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:20.696272+00
 42653,classics-manager-2026,Fabien Grellier,Kategori 4,TotalEnergies,2026-02-25 15:30:23.706617+00,fabien-grellier,Grellier Fabien,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:20.729154+00
@@ -629,7 +629,7 @@ holdet_player_id,cartridge_slug,rider_name,kategori,team_name,fetched_at,pcs_rid
 42953,classics-manager-2026,Martin Svrcek,Kategori 4,Soudal Quick-Step,2026-02-25 15:30:23.706617+00,martin-svrcek,SVRČEK Martin,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:25.760807+00
 42954,classics-manager-2026,Martin Tjøtta,Kategori 4,Uno-X Mobility,2026-02-25 15:30:23.706617+00,martin-tjotta,Tjøtta Martin,APPROVED,0.9000,manual_bulk_pending_0_90,2026-02-25 16:35:41.736067+00
 42955,classics-manager-2026,Martin Urianstad,Kategori 4,Uno-X Mobility,2026-02-25 15:30:23.706617+00,martin-urianstad,Martin Urianstad,APPROVED,1.0000,manual_verified_pcs_slug,2026-02-25 17:12:57.254626+00
-42957,classics-manager-2026,Matevz Govekar,Kategori 4,Bahrain - Victorious,2026-02-25 15:30:23.706617+00,matevz-govekar,Govekar Matevž,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:25.827295+00
+42957,classics-manager-2026,Matevz Govekar,Kategori 4,Bahrain - Victorious,2026-02-25 15:30:23.706617+00,matevz-govekar,GOVEKAR Matevž,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:25.827295+00
 42958,classics-manager-2026,Mathias Norsgaard,Kategori 4,Lidl - Trek,2026-02-25 15:30:23.706617+00,mathias-norsgaard,SUNEKÆR NORSGAARD Mathias,APPROVED,1.0000,manual_verified_pcs_slug,2026-02-25 17:12:57.254626+00
 42961,classics-manager-2026,Mathieu Kockelmann,Kategori 4,Lotto Intermarché,2026-02-25 15:30:23.706617+00,mathieu-kockelmann,KOCKELMANN Mathieu,APPROVED,1.0000,manual_verified_pcs_slug,2026-02-25 17:12:57.254626+00
 42963,classics-manager-2026,Mathijs Paasschens,Kategori 4,Bahrain - Victorious,2026-02-25 15:30:23.706617+00,mathijs-paasschens,Paasschens Mathijs,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:25.969719+00
@@ -659,7 +659,7 @@ holdet_player_id,cartridge_slug,rider_name,kategori,team_name,fetched_at,pcs_rid
 43003,classics-manager-2026,Maxime Decomble,Kategori 4,Groupama - FDJ United,2026-02-25 15:30:23.706617+00,maxime-decomble,Maxime Decomble,APPROVED,1.0000,manual_verified_pcs_slug,2026-02-25 17:12:57.254626+00
 42997,classics-manager-2026,Max Kanter,Kategori 4,XDS Astana Team,2026-02-25 15:30:23.706617+00,max-kanter,KANTER Max,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:26.488724+00
 42999,classics-manager-2026,Max Van Der Meulen,Kategori 4,Bahrain - Victorious,2026-02-25 15:30:23.706617+00,max-van-der-meulen,van der Meulen Max,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:26.558882+00
-43000,classics-manager-2026,Max Walker,Kategori 4,EF Education - EasyPost,2026-02-25 15:30:23.706617+00,max-walker,Walker Max,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:26.592985+00
+43000,classics-manager-2026,Max Walker,Kategori 4,EF Education - EasyPost,2026-02-25 15:30:23.706617+00,max-walker,WALKER Max,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:26.592985+00
 43005,classics-manager-2026,Menno Huising,Kategori 4,Team Visma | Lease a Bike,2026-02-25 15:30:23.706617+00,menno-huising,Huising Menno,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:26.700367+00
 43006,classics-manager-2026,Merhawi Ghebremedhin Kudus,Kategori 4,Burgos Burpellet BH,2026-02-25 15:30:23.706617+00,merhawi-ghebremedhin-kudus,Merhawi Ghebremedhin Kudus,APPROVED,1.0000,manual_verified_pcs_slug,2026-02-25 17:12:57.254626+00
 43007,classics-manager-2026,Michael Gogl,Kategori 4,Alpecin-Premier Tech,2026-02-25 15:30:23.706617+00,michael-gogl,GOGL Michael,APPROVED,0.9000,manual_bulk_pending_0_90,2026-02-25 16:35:41.736067+00
@@ -741,7 +741,7 @@ holdet_player_id,cartridge_slug,rider_name,kategori,team_name,fetched_at,pcs_rid
 43125,classics-manager-2026,Rick Pluimers,Kategori 4,Tudor Pro Cycling Team,2026-02-25 15:30:23.706617+00,rick-pluimers,PLUIMERS Rick,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:28.822703+00
 43466,classics-manager-2026,Riley Pickrell,Kategori 4,Modern Adventure Pro Cycling,2026-02-25 15:30:23.706617+00,riley-pickrell,Pickrell Riley,APPROVED,0.9000,manual_bulk_pending_0_90,2026-02-25 16:35:41.736067+00
 43127,classics-manager-2026,Robbe Dhondt,Kategori 4,Team Picnic PostNL,2026-02-25 15:30:23.706617+00,robbe-dhondt,DHONDT Robbe,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:28.884241+00
-43128,classics-manager-2026,Robbe Ghys,Kategori 4,Decathlon CMA CGM Team,2026-02-25 15:30:23.706617+00,robbe-ghys,Ghys Robbe,APPROVED,0.9000,manual_bulk_pending_0_90,2026-02-25 16:35:41.736067+00
+43128,classics-manager-2026,Robbe Ghys,Kategori 4,Decathlon CMA CGM Team,2026-02-25 15:30:23.706617+00,robbe-ghys,GHYS Robbe,APPROVED,0.9000,manual_bulk_pending_0_90,2026-02-25 16:35:41.736067+00
 43129,classics-manager-2026,Robert Donaldson,Kategori 4,Team Jayco AlUla,2026-02-25 15:30:23.706617+00,robert-donaldson,DONALDSON Robert,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:28.913638+00
 43131,classics-manager-2026,Roberto Carlos González,Kategori 4,Solution Tech NIPPO Rali,2026-02-25 15:30:23.706617+00,roberto-gonzalez,González Roberto Carlos,APPROVED,0.9000,manual_bulk_pending_0_90,2026-02-25 16:35:41.736067+00
 43130,classics-manager-2026,Robert Stannard,Kategori 4,Bahrain - Victorious,2026-02-25 15:30:23.706617+00,robert-stannard,STANNARD Robert,APPROVED,0.9700,auto_name_signature+team,2026-02-25 16:32:28.945775+00
