@@ -24,21 +24,21 @@ Amstel Gold Race,2025,mauro-schmid,SCHMID Mauro,Team Jayco AlUla,15,FINISH,FINIS
 Amstel Gold Race,2025,luc-wirtgen,WIRTGEN Luc,Tudor Pro Cycling Team,15,DNF,DNF,
 Amstel Gold Race,2025,quinten-hermans,HERMANS Quinten,Alpecin - Deceuninck,16,FINISH,FINISH,1:33 1:33
 Amstel Gold Race,2025,hannes-wilksch,WILKSCH Hannes,Tudor Pro Cycling Team,16,DNF,DNF,
-Amstel Gold Race,2025,aleksey-lutsenko,Lutsenko Alexey,Israel - Premier Tech,17,FINISH,FINISH,3:32 3:32
+Amstel Gold Race,2025,aleksey-lutsenko,LUTSENKO Alexey,Israel - Premier Tech,17,FINISH,FINISH,3:32 3:32
 Amstel Gold Race,2025,matteo-trentin,TRENTIN Matteo,Tudor Pro Cycling Team,17,DNF,DNF,
-Amstel Gold Race,2025,alexander-kamp,Kamp Alexander,Intermarché - Wanty,18,FINISH,FINISH,3:36 3:36
+Amstel Gold Race,2025,alexander-kamp,KAMP Alexander,Intermarché - Wanty,18,FINISH,FINISH,3:36 3:36
 Amstel Gold Race,2025,valentin-madouas,MADOUAS Valentin,Groupama - FDJ,19,FINISH,FINISH,",, 3:36"
 Amstel Gold Race,2025,julian-alaphilippe,ALAPHILIPPE Julian,Tudor Pro Cycling Team,20,FINISH,FINISH,",, 3:36"
 Amstel Gold Race,2025,ben-tulett,TULETT Ben,Team Visma | Lease a Bike,21,FINISH,FINISH,",, 3:36"
 Amstel Gold Race,2025,attila-valter,VALTER Attila,Team Visma | Lease a Bike,22,FINISH,FINISH,",, 3:36"
 Amstel Gold Race,2025,alexandre-delettre,DELETTRE Alexandre,TotalEnergies,23,FINISH,FINISH,",, 3:36"
 Amstel Gold Race,2025,daniel-mclay,McLay Daniel,Team Visma | Lease a Bike,23,DNF,DNF,
-Amstel Gold Race,2025,mathieu-burgaudeau,Burgaudeau Mathieu,TotalEnergies,24,FINISH,FINISH,",, 3:36"
+Amstel Gold Race,2025,mathieu-burgaudeau,BURGAUDEAU Mathieu,TotalEnergies,24,FINISH,FINISH,",, 3:36"
 Amstel Gold Race,2025,pello-bilbao,BILBAO Pello,Bahrain - Victorious,25,FINISH,FINISH,",, 3:36"
 Amstel Gold Race,2025,frank-van-den-broek,VAN DEN BROEK Frank,Team Picnic PostNL,26,FINISH,FINISH,",, 3:36"
 Amstel Gold Race,2025,tosh-van-der-sande,Van der Sande Tosh,Team Visma | Lease a Bike,26,DNF,DNF,
 Amstel Gold Race,2025,davide-formolo,Formolo Davide,Movistar Team,27,FINISH,FINISH,",, 3:36"
-Amstel Gold Race,2025,andreas-leknessund,Leknessund Andreas,Uno-X Mobility,28,FINISH,FINISH,",, 3:36"
+Amstel Gold Race,2025,andreas-leknessund,LEKNESSUND Andreas,Uno-X Mobility,28,FINISH,FINISH,",, 3:36"
 Amstel Gold Race,2025,santiago-buitrago-sanchez,Buitrago Santiago,Bahrain - Victorious,29,FINISH,FINISH,3:58 3:58
 Amstel Gold Race,2025,warren-barguil,BARGUIL Warren,Team Picnic PostNL,30,FINISH,FINISH,4:02 4:02
 Amstel Gold Race,2025,clement-champoussin,CHAMPOUSSIN Clément,XDS Astana Team,31,DNF,DNF,
@@ -46,7 +46,7 @@ Amstel Gold Race,2025,georg-zimmermann,ZIMMERMANN Georg,Intermarché - Wanty,31,
 Amstel Gold Race,2025,fredrik-dversnes,DVERSNES LAVIK Fredrik,Uno-X Mobility,32,FINISH,FINISH,4:08 4:08
 Amstel Gold Race,2025,fausto-masnada,Masnada Fausto,XDS Astana Team,33,DNF,DNF,
 Amstel Gold Race,2025,quentin-pacher,PACHER Quentin,Groupama - FDJ,33,FINISH,FINISH,",, 4:08"
-Amstel Gold Race,2025,nicola-conci,Conci Nicola,XDS Astana Team,34,FINISH,FINISH,",, 4:08"
+Amstel Gold Race,2025,nicola-conci,CONCI Nicola,XDS Astana Team,34,FINISH,FINISH,",, 4:08"
 Amstel Gold Race,2025,ide-schelling,Schelling Ide,XDS Astana Team,34,DNF,DNF,
 Amstel Gold Race,2025,gregor-muhlberger,MÜHLBERGER Gregor,Movistar Team,35,FINISH,FINISH,",, 4:08"
 Amstel Gold Race,2025,christian-scaroni,SCARONI Christian,XDS Astana Team,35,DNF,DNF,
@@ -61,7 +61,7 @@ Amstel Gold Race,2025,mauri-vansevenant,VANSEVENANT Mauri,Soudal Quick-Step,42,F
 Amstel Gold Race,2025,tim-wellens,WELLENS Tim,UAE Team Emirates - XRG,42,DNF,DNF,
 Amstel Gold Race,2025,kevin-geniets,GENIETS Kevin,Groupama - FDJ,43,FINISH,FINISH,",, 4:30"
 Amstel Gold Race,2025,dorian-godon,GODON Dorian,Decathlon AG2R La Mondiale Team,44,FINISH,FINISH,4:41 4:41
-Amstel Gold Race,2025,jhonatan-narvaez,Narváez Jhonatan,UAE Team Emirates - XRG,45,DNF,DNF,
+Amstel Gold Race,2025,jhonatan-narvaez,NARVÁEZ Jhonatan,UAE Team Emirates - XRG,45,DNF,DNF,
 Amstel Gold Race,2025,edoardo-zambanini,ZAMBANINI Edoardo,Bahrain - Victorious,45,FINISH,FINISH,",, 4:41"
 Amstel Gold Race,2025,domen-novak,NOVAK Domen,UAE Team Emirates - XRG,46,DNF,DNF,
 Amstel Gold Race,2025,dylan-teuns,TEUNS Dylan,Cofidis,46,FINISH,FINISH,",, 4:41"
@@ -97,7 +97,7 @@ Amstel Gold Race,2025,damien-touze,Touzé Damien,Cofidis,67,FINISH,FINISH,",, 8:
 Amstel Gold Race,2025,filippo-zana,ZANA Filippo,Team Jayco AlUla,67,DNF,DNF,
 Amstel Gold Race,2025,felix-grossschartner,GROßSCHARTNER Felix,UAE Team Emirates - XRG,68,FINISH,FINISH,",, 8:46"
 Amstel Gold Race,2025,remi-cavagna,Cavagna Rémi,Groupama - FDJ,69,FINISH,FINISH,",, 8:46"
-Amstel Gold Race,2025,samuele-battistella,Battistella Samuele,EF Education - EasyPost,70,FINISH,FINISH,",, 8:46"
+Amstel Gold Race,2025,samuele-battistella,BATTISTELLA Samuele,EF Education - EasyPost,70,FINISH,FINISH,",, 8:46"
 Amstel Gold Race,2025,victor-langellotti,LANGELLOTTI Victor,INEOS Grenadiers,71,FINISH,FINISH,",, 8:46"
 Amstel Gold Race,2025,mick-van-dijke,VAN DIJKE Mick,Red Bull - BORA - hansgrohe,72,FINISH,FINISH,",, 8:46"
 Amstel Gold Race,2025,dylan-van-baarle,VAN BAARLE Dylan,Team Visma | Lease a Bike,73,FINISH,FINISH,",, 8:46"
@@ -124,7 +124,7 @@ Amstel Gold Race,2025,quinn-simmons,SIMMONS Quinn,Lidl - Trek,106,DNF,DNF,
 Amstel Gold Race,2025,otto-vergaerde,VERGAERDE Otto,Lidl - Trek,107,DNF,DNF,
 Amstel Gold Race,2025,dries-de-pooter,DE POOTER Dries,Intermarché - Wanty,113,DNF,DNF,
 Amstel Gold Race,2025,lorenzo-rota,ROTA Lorenzo,Intermarché - Wanty,116,DNF,DNF,
-Amstel Gold Race,2025,tobias-foss,Foss Tobias,INEOS Grenadiers,121,DNF,DNF,
+Amstel Gold Race,2025,tobias-foss,FOSS Tobias,INEOS Grenadiers,121,DNF,DNF,
 Amstel Gold Race,2025,omar-fraile,Fraile Omar,INEOS Grenadiers,122,DNF,DNF,
 Amstel Gold Race,2025,bob-jungels,Jungels Bob,INEOS Grenadiers,123,DNF,DNF,
 Amstel Gold Race,2025,cyril-barthe,BARTHE Cyril,Groupama - FDJ,132,DNF,DNF,
@@ -137,7 +137,7 @@ Amstel Gold Race,2025,sander-de-pestel,DE PESTEL Sander,Decathlon AG2R La Mondia
 Amstel Gold Race,2025,noa-isidore,ISIDORE Noa,Decathlon AG2R La Mondiale Team,154,DNF,DNF,
 Amstel Gold Race,2025,jordan-labrosse,LABROSSE Jordan,Decathlon AG2R La Mondiale Team,155,DNF,DNF,
 Amstel Gold Race,2025,oliver-naesen,NAESEN Oliver,Decathlon AG2R La Mondiale Team,156,DNF,DNF,
-Amstel Gold Race,2025,sam-maisonobe,Maisonobe Sam,Cofidis,162,DNF,DNF,
+Amstel Gold Race,2025,sam-maisonobe,MAISONOBE Sam,Cofidis,162,DNF,DNF,
 Amstel Gold Race,2025,alex-aranburu,ARANBURU Alex,Cofidis,163,DNF,DNF,
 Amstel Gold Race,2025,valentin-ferron,FERRON Valentin,Cofidis,164,DNF,DNF,
 Amstel Gold Race,2025,ludovic-robeet,Robeet Ludovic,Cofidis,165,DNF,DNF,
@@ -162,7 +162,7 @@ Amstel Gold Race,2025,cedric-beullens,BEULLENS Cedric,Lotto,211,DNF,DNF,
 Amstel Gold Race,2025,logan-currie,Currie Logan,Lotto,212,DNF,DNF,
 Amstel Gold Race,2025,jarrad-drizners,DRIZNERS Jarrad,Lotto,213,DNF,DNF,
 Amstel Gold Race,2025,jonas-gregaard,Gregaard Jonas,Lotto,216,DNF,DNF,
-Amstel Gold Race,2025,henri-vandenabeele,Vandenabeele Henri,Lotto,217,DNF,DNF,
+Amstel Gold Race,2025,henri-vandenabeele,VANDENABEELE Henri,Lotto,217,DNF,DNF,
 Amstel Gold Race,2025,nadav-raisberg,RAISBERG Nadav,Israel - Premier Tech,224,DNF,DNF,
 Amstel Gold Race,2025,nick-schultz,SCHULTZ Nick,Israel - Premier Tech,225,DNF,DNF,
 Amstel Gold Race,2025,riley-sheehan,SHEEHAN Riley,Israel - Premier Tech,226,DNF,DNF,
@@ -172,7 +172,7 @@ Amstel Gold Race,2025,lukas-kubis,KUBIŠ Lukáš,Unibet Tietema Rockets,235,DNF,
 Amstel Gold Race,2025,sergio-meris,MERIS Sergio,Unibet Tietema Rockets,237,DNF,DNF,
 Amstel Gold Race,2025,rayan-boulahoite,BOULAHOITE Rayan,TotalEnergies,242,DNF,DNF,
 Amstel Gold Race,2025,baptiste-vadic,VADIC Baptiste,TotalEnergies,245,DNF,DNF,
-Amstel Gold Race,2025,valentin-retailleau,Retailleau Valentin,TotalEnergies,246,DNF,DNF,
+Amstel Gold Race,2025,valentin-retailleau,RETAILLEAU Valentin,TotalEnergies,246,DNF,DNF,
 Amstel Gold Race,2025,anthony-turgis,TURGIS Anthony,TotalEnergies,247,DNF,DNF,
 Amstel Gold Race,2024,thomas-pidcock,PIDCOCK Thomas,INEOS Grenadiers,1,FINISH,FINISH,5:58:17 5:58:17
 Amstel Gold Race,2024,marc-hirschi,HIRSCHI Marc,UAE Team Emirates,2,FINISH,FINISH,",, 0:00"
@@ -201,8 +201,8 @@ Amstel Gold Race,2024,omar-fraile,Fraile Omar,INEOS Grenadiers,23,DNF,DNF,
 Amstel Gold Race,2024,kevin-vermaerke,VERMAERKE Kevin,Team dsm-firmenich PostNL,24,FINISH,FINISH,",, 0:11"
 Amstel Gold Race,2024,odd-christian-eiking,EIKING Odd Christian,Uno-X Mobility,25,FINISH,FINISH,",, 0:11"
 Amstel Gold Race,2024,connor-swift,SWIFT Connor,INEOS Grenadiers,25,DNF,DNF,
-Amstel Gold Race,2024,andreas-leknessund,Leknessund Andreas,Uno-X Mobility,26,FINISH,FINISH,",, 0:11"
-Amstel Gold Race,2024,alexander-kamp,Kamp Alexander,Tudor Pro Cycling Team,27,FINISH,FINISH,",, 0:11"
+Amstel Gold Race,2024,andreas-leknessund,LEKNESSUND Andreas,Uno-X Mobility,26,FINISH,FINISH,",, 0:11"
+Amstel Gold Race,2024,alexander-kamp,KAMP Alexander,Tudor Pro Cycling Team,27,FINISH,FINISH,",, 0:11"
 Amstel Gold Race,2024,cameron-wurf,Wurf Cameron,INEOS Grenadiers,27,DNF,DNF,
 Amstel Gold Race,2024,mikkel-honore,HONORÉ Mikkel Frølich,EF Education - EasyPost,28,FINISH,FINISH,",, 0:11"
 Amstel Gold Race,2024,stefan-kung,KÜNG Stefan,Groupama - FDJ,29,FINISH,FINISH,",, 0:11"
@@ -227,12 +227,12 @@ Amstel Gold Race,2024,ben-healy,HEALY Ben,EF Education - EasyPost,45,FINISH,FINI
 Amstel Gold Race,2024,davide-formolo,Formolo Davide,Movistar Team,46,FINISH,FINISH,1:56 1:56
 Amstel Gold Race,2024,sam-oomen,Oomen Sam,Lidl - Trek,47,FINISH,FINISH,",, 1:56"
 Amstel Gold Race,2024,tosh-van-der-sande,Van der Sande Tosh,Team Visma | Lease a Bike,47,DNF,DNF,
-Amstel Gold Race,2024,anthon-charmig,Charmig Anthon,Astana Qazaqstan Team,48,FINISH,FINISH,",, 1:56"
+Amstel Gold Race,2024,anthon-charmig,CHARMIG Anthon,Astana Qazaqstan Team,48,FINISH,FINISH,",, 1:56"
 Amstel Gold Race,2024,mark-donovan,DONOVAN Mark,Q36.5 Pro Cycling Team,49,FINISH,FINISH,",, 1:56"
 Amstel Gold Race,2024,lucas-eriksson,Eriksson Lucas,Tudor Pro Cycling Team,50,FINISH,FINISH,",, 1:56"
 Amstel Gold Race,2024,richard-carapaz,CARAPAZ Richard,EF Education - EasyPost,51,FINISH,FINISH,",, 1:56"
 Amstel Gold Race,2024,brandon-mcnulty,MCNULTY Brandon,UAE Team Emirates,52,FINISH,FINISH,",, 1:56"
-Amstel Gold Race,2024,samuele-battistella,Battistella Samuele,Astana Qazaqstan Team,53,FINISH,FINISH,2:47 2:47
+Amstel Gold Race,2024,samuele-battistella,BATTISTELLA Samuele,Astana Qazaqstan Team,53,FINISH,FINISH,2:47 2:47
 Amstel Gold Race,2024,simon-clarke,Clarke Simon,Israel - Premier Tech,54,FINISH,FINISH,3:04 3:04
 Amstel Gold Race,2024,jelle-johannink,JOHANNINK Jelle,TDT - Unibet Cycling Team,55,FINISH,FINISH,3:06 3:06
 Amstel Gold Race,2024,junior-lecerf,LECERF Junior,Soudal Quick-Step,56,FINISH,FINISH,",, 3:06"
@@ -313,7 +313,7 @@ Amstel Gold Race,2024,ben-turner,TURNER Ben,INEOS Grenadiers,115,FINISH,FINISH,"
 Amstel Gold Race,2024,tomas-kopecky,KOPECKÝ Tomáš,TDT - Unibet Cycling Team,116,FINISH,FINISH,",, 7:02"
 Amstel Gold Race,2024,zeb-kyffin,Kyffin Zeb,TDT - Unibet Cycling Team,117,FINISH,FINISH,10:05 10:05
 Amstel Gold Race,2024,martijn-tusveld,Tusveld Martijn,Team dsm-firmenich PostNL,118,FINISH,FINISH,",, 10:05"
-Amstel Gold Race,2024,valentin-retailleau,Retailleau Valentin,Decathlon AG2R La Mondiale Team,119,FINISH,FINISH,",, 10:05"
+Amstel Gold Race,2024,valentin-retailleau,RETAILLEAU Valentin,Decathlon AG2R La Mondiale Team,119,FINISH,FINISH,",, 10:05"
 Amstel Gold Race,2024,enzo-leijnse,Leijnse Enzo,Team dsm-firmenich PostNL,120,FINISH,FINISH,",, 10:05"
 Amstel Gold Race,2024,jorge-arcas,Arcas Jorge,Movistar Team,121,FINISH,FINISH,",, 10:05"
 Amstel Gold Race,2024,owain-doull,DOULL Owain,EF Education - EasyPost,122,FINISH,FINISH,11:01 11:01
@@ -408,7 +408,7 @@ Dwars door Vlaanderen,2025,olivier-le-gac,Le Gac Olivier,Groupama - FDJ,45,DNF,D
 Dwars door Vlaanderen,2025,mike-teunissen,TEUNISSEN Mike,XDS Astana Team,45,FINISH,FINISH,",, 5:08"
 Dwars door Vlaanderen,2025,ivan-garcia-cortina,GARCÍA CORTINA Iván,Movistar Team,46,FINISH,FINISH,",, 5:08"
 Dwars door Vlaanderen,2025,andrea-pasqualon,Pasqualon Andrea,Bahrain - Victorious,47,FINISH,FINISH,",, 5:08"
-Dwars door Vlaanderen,2025,nicolo-parisini,Parisini Nicolò,Q36.5 Pro Cycling Team,48,FINISH,FINISH,",, 5:08"
+Dwars door Vlaanderen,2025,nicolo-parisini,PARISINI Nicolò,Q36.5 Pro Cycling Team,48,FINISH,FINISH,",, 5:08"
 Dwars door Vlaanderen,2025,matej-mohoric,MOHORIČ Matej,Bahrain - Victorious,49,FINISH,FINISH,",, 5:08"
 Dwars door Vlaanderen,2025,clement-russo,RUSSO Clément,Groupama - FDJ,50,FINISH,FINISH,",, 5:08"
 Dwars door Vlaanderen,2025,vlad-van-mechelen,VAN MECHELEN Vlad,Bahrain - Victorious,51,FINISH,FINISH,",, 5:08"
@@ -433,10 +433,10 @@ Dwars door Vlaanderen,2025,tobias-bayer,BAYER Tobias,Alpecin - Deceuninck,64,DNF
 Dwars door Vlaanderen,2025,arnaud-demare,Démare Arnaud,Arkéa - B&B Hotels,64,FINISH,FINISH,",, 5:08"
 Dwars door Vlaanderen,2025,riley-sheehan,SHEEHAN Riley,Israel - Premier Tech,65,FINISH,FINISH,",, 5:08"
 Dwars door Vlaanderen,2025,xandro-meurisse,MEURISSE Xandro,Alpecin - Deceuninck,66,DNF,DNF,
-Dwars door Vlaanderen,2025,jhonatan-narvaez,Narváez Jhonatan,UAE Team Emirates - XRG,66,FINISH,FINISH,",, 5:08"
+Dwars door Vlaanderen,2025,jhonatan-narvaez,NARVÁEZ Jhonatan,UAE Team Emirates - XRG,66,FINISH,FINISH,",, 5:08"
 Dwars door Vlaanderen,2025,aime-de-gendt,DE GENDT Aimé,Cofidis,67,FINISH,FINISH,",, 5:08"
 Dwars door Vlaanderen,2025,jonas-rickaert,RICKAERT Jonas,Alpecin - Deceuninck,67,DNF,DNF,
-Dwars door Vlaanderen,2025,sam-maisonobe,Maisonobe Sam,Cofidis,68,FINISH,FINISH,",, 5:08"
+Dwars door Vlaanderen,2025,sam-maisonobe,MAISONOBE Sam,Cofidis,68,FINISH,FINISH,",, 5:08"
 Dwars door Vlaanderen,2025,leandre-lozouet,Lozouet Léandre,Arkéa - B&B Hotels,69,FINISH,FINISH,",, 5:08"
 Dwars door Vlaanderen,2025,ceriel-desal,Desal Ceriel,Wagner Bazin WB,70,FINISH,FINISH,",, 5:08"
 Dwars door Vlaanderen,2025,filippo-baroncini,Baroncini Filippo,UAE Team Emirates - XRG,71,FINISH,FINISH,",, 5:08"
@@ -480,7 +480,7 @@ Dwars door Vlaanderen,2025,sam-welsford,WELSFORD Sam,Red Bull - BORA - hansgrohe
 Dwars door Vlaanderen,2025,ryan-mullen,MULLEN Ryan,Red Bull - BORA - hansgrohe,102,DNF,DNF,
 Dwars door Vlaanderen,2025,danny-van-poppel,VAN POPPEL Danny,Red Bull - BORA - hansgrohe,104,DNF,DNF,
 Dwars door Vlaanderen,2025,laurence-pithie,PITHIE Laurence,Red Bull - BORA - hansgrohe,105,DNF,DNF,
-Dwars door Vlaanderen,2025,tobias-foss,Foss Tobias,INEOS Grenadiers,112,DNF,DNF,
+Dwars door Vlaanderen,2025,tobias-foss,FOSS Tobias,INEOS Grenadiers,112,DNF,DNF,
 Dwars door Vlaanderen,2025,joshua-tarling,TARLING Joshua,INEOS Grenadiers,113,DNF,DNF,
 Dwars door Vlaanderen,2025,samuel-watson,WATSON Samuel,INEOS Grenadiers,116,DNF,DNF,
 Dwars door Vlaanderen,2025,connor-swift,SWIFT Connor,INEOS Grenadiers,117,DNF,DNF,
@@ -736,7 +736,7 @@ E3 Saxo Classic,2025,carlos-canal,CANAL Carlos,Movistar Team,28,FINISH,FINISH,",
 E3 Saxo Classic,2025,anthony-turgis,TURGIS Anthony,TotalEnergies,29,FINISH,FINISH,",, 2:43"
 E3 Saxo Classic,2025,jenno-berckmoes,BERCKMOES Jenno,Lotto,30,FINISH,FINISH,",, 2:43"
 E3 Saxo Classic,2025,vito-braet,BRAET Vito,Intermarché - Wanty,31,FINISH,FINISH,",, 2:43"
-E3 Saxo Classic,2025,nicolo-parisini,Parisini Nicolò,Q36.5 Pro Cycling Team,32,FINISH,FINISH,",, 2:43"
+E3 Saxo Classic,2025,nicolo-parisini,PARISINI Nicolò,Q36.5 Pro Cycling Team,32,FINISH,FINISH,",, 2:43"
 E3 Saxo Classic,2025,louis-vervaeke,VERVAEKE Louis,Soudal Quick-Step,32,DNF,DNF,
 E3 Saxo Classic,2025,gil-gelders,Gelders Gil,Soudal Quick-Step,33,DNF,DNF,
 E3 Saxo Classic,2025,antonio-morgado,MORGADO António,UAE Team Emirates - XRG,33,FINISH,FINISH,",, 2:43"
@@ -785,7 +785,7 @@ E3 Saxo Classic,2025,william-blume-levy,BLUME LEVY William,Uno-X Mobility,67,FIN
 E3 Saxo Classic,2025,jannik-steimle,Steimle Jannik,Q36.5 Pro Cycling Team,68,FINISH,FINISH,",, 7:29"
 E3 Saxo Classic,2025,sebastien-grignard,GRIGNARD Sébastien,Lotto,69,FINISH,FINISH,",, 7:29"
 E3 Saxo Classic,2025,julius-van-den-berg,VAN DEN BERG Julius,Team Picnic PostNL,70,FINISH,FINISH,",, 7:29"
-E3 Saxo Classic,2025,sam-maisonobe,Maisonobe Sam,Cofidis,71,FINISH,FINISH,",, 7:29"
+E3 Saxo Classic,2025,sam-maisonobe,MAISONOBE Sam,Cofidis,71,FINISH,FINISH,",, 7:29"
 E3 Saxo Classic,2025,gianni-moscon,MOSCON Gianni,Red Bull - BORA - hansgrohe,72,DNF,DNF,
 E3 Saxo Classic,2025,rick-pluimers,PLUIMERS Rick,Tudor Pro Cycling Team,72,FINISH,FINISH,",, 7:29"
 E3 Saxo Classic,2025,laurence-pithie,PITHIE Laurence,Red Bull - BORA - hansgrohe,73,FINISH,FINISH,",, 7:29"
@@ -844,7 +844,7 @@ E3 Saxo Classic,2025,jake-stewart,Stewart Jake,Israel - Premier Tech,121,FINISH,
 E3 Saxo Classic,2025,anders-skaarseth,SKAARSETH Anders,Uno-X Mobility,122,FINISH,FINISH,",, 12:07"
 E3 Saxo Classic,2025,sven-erik-bystrom,BYSTRØM Sven Erik,Groupama - FDJ,123,FINISH,FINISH,",, 12:07"
 E3 Saxo Classic,2025,nadav-raisberg,RAISBERG Nadav,Israel - Premier Tech,124,FINISH,FINISH,",, 12:07"
-E3 Saxo Classic,2025,tobias-foss,Foss Tobias,INEOS Grenadiers,125,FINISH,FINISH,",, 12:07"
+E3 Saxo Classic,2025,tobias-foss,FOSS Tobias,INEOS Grenadiers,125,FINISH,FINISH,",, 12:07"
 E3 Saxo Classic,2025,ben-turner,TURNER Ben,INEOS Grenadiers,126,DNF,DNF,
 E3 Saxo Classic,2025,max-walker,WALKER Max,EF Education - EasyPost,126,FINISH,FINISH,",, 12:07"
 E3 Saxo Classic,2025,oscar-riesebeek,RIESEBEEK Oscar,Alpecin - Deceuninck,127,FINISH,FINISH,",, 12:07"
@@ -882,7 +882,7 @@ E3 Saxo Classic,2024,wout-van-aert,VAN AERT Wout,Team Visma | Lease a Bike,3,FIN
 E3 Saxo Classic,2024,tim-wellens,WELLENS Tim,UAE Team Emirates,4,FINISH,FINISH,1:48 1:48
 E3 Saxo Classic,2024,edoardo-affini,AFFINI Edoardo,Team Visma | Lease a Bike,5,DNF,DNF,
 E3 Saxo Classic,2024,matteo-jorgenson,JORGENSON Matteo,Team Visma | Lease a Bike,5,FINISH,FINISH,1:50 1:50
-E3 Saxo Classic,2024,jhonatan-narvaez,Narváez Jhonatan,INEOS Grenadiers,6,FINISH,FINISH,1:52 1:52
+E3 Saxo Classic,2024,jhonatan-narvaez,NARVÁEZ Jhonatan,INEOS Grenadiers,6,FINISH,FINISH,1:52 1:52
 E3 Saxo Classic,2024,nils-politt,POLITT Nils,UAE Team Emirates,7,FINISH,FINISH,2:48 2:48
 E3 Saxo Classic,2024,toms-skujins,SKUJIŅŠ Toms,Lidl - Trek,8,FINISH,FINISH,",, 2:48"
 E3 Saxo Classic,2024,vincenzo-albanese,ALBANESE Vincenzo,Arkéa - B&B Hotels,9,FINISH,FINISH,",, 2:48"
@@ -906,7 +906,7 @@ E3 Saxo Classic,2024,oliver-naesen,NAESEN Oliver,Decathlon AG2R La Mondiale Team
 E3 Saxo Classic,2024,marco-haller,HALLER Marco,BORA - hansgrohe,26,FINISH,FINISH,",, 4:15"
 E3 Saxo Classic,2024,markus-hoelgaard,HOELGAARD Markus,Uno-X Mobility,27,FINISH,FINISH,",, 4:15"
 E3 Saxo Classic,2024,yves-lampaert,LAMPAERT Yves,Soudal Quick-Step,28,FINISH,FINISH,",, 4:15"
-E3 Saxo Classic,2024,nicolo-parisini,Parisini Nicolò,Q36.5 Pro Cycling Team,29,FINISH,FINISH,",, 4:15"
+E3 Saxo Classic,2024,nicolo-parisini,PARISINI Nicolò,Q36.5 Pro Cycling Team,29,FINISH,FINISH,",, 4:15"
 E3 Saxo Classic,2024,mikkel-bjerg,BJERG Mikkel,UAE Team Emirates,30,FINISH,FINISH,",, 4:15"
 E3 Saxo Classic,2024,marius-mayrhofer,MAYRHOFER Marius,Tudor Pro Cycling Team,31,FINISH,FINISH,",, 4:15"
 E3 Saxo Classic,2024,jan-tratnik,TRATNIK Jan,Team Visma | Lease a Bike,32,FINISH,FINISH,",, 4:15"
@@ -993,7 +993,7 @@ E3 Saxo Classic,2024,stefan-bissegger,BISSEGGER Stefan,EF Education - EasyPost,9
 E3 Saxo Classic,2024,jordan-labrosse,LABROSSE Jordan,Decathlon AG2R La Mondiale Team,95,DNF,DNF,
 E3 Saxo Classic,2024,oscar-riesebeek,RIESEBEEK Oscar,Alpecin - Deceuninck,95,FINISH,FINISH,",, 7:41"
 E3 Saxo Classic,2024,luca-de-meester,De Meester Luca,Bingoal WB,96,FINISH,FINISH,11:05 11:05
-E3 Saxo Classic,2024,valentin-retailleau,Retailleau Valentin,Decathlon AG2R La Mondiale Team,96,DNF,DNF,
+E3 Saxo Classic,2024,valentin-retailleau,RETAILLEAU Valentin,Decathlon AG2R La Mondiale Team,96,DNF,DNF,
 E3 Saxo Classic,2024,luis-joe-luhrs,Lührs Luis-Joe,BORA - hansgrohe,97,FINISH,FINISH,",, 11:05"
 E3 Saxo Classic,2024,kenneth-van-rooy,Van Rooy Kenneth,Bingoal WB,98,FINISH,FINISH,",, 11:05"
 E3 Saxo Classic,2024,edvald-boasson-hagen,Boasson Hagen Edvald,Decathlon AG2R La Mondiale Team,99,FINISH,FINISH,",, 11:05"
@@ -1056,7 +1056,7 @@ Eschborn-Frankfurt,2025,neilson-powless,POWLESS Neilson,EF Education - EasyPost,
 Eschborn-Frankfurt,2025,laurence-pithie,PITHIE Laurence,Red Bull - BORA - hansgrohe,5,DNF,DNF,
 Eschborn-Frankfurt,2025,frederik-wandahl,Wandahl Frederik,Red Bull - BORA - hansgrohe,5,FINISH,FINISH,",, 0:00"
 Eschborn-Frankfurt,2025,albert-withen-philipsen,WITHEN PHILIPSEN Albert,Lidl - Trek,6,FINISH,FINISH,",, 0:00"
-Eschborn-Frankfurt,2025,stefano-oldani,Oldani Stefano,Cofidis,7,FINISH,FINISH,",, 0:00"
+Eschborn-Frankfurt,2025,stefano-oldani,OLDANI Stefano,Cofidis,7,FINISH,FINISH,",, 0:00"
 Eschborn-Frankfurt,2025,sam-welsford,WELSFORD Sam,Red Bull - BORA - hansgrohe,7,DNF,DNF,
 Eschborn-Frankfurt,2025,marc-hirschi,HIRSCHI Marc,Tudor Pro Cycling Team,8,FINISH,FINISH,",, 0:00"
 Eschborn-Frankfurt,2025,nico-denz,Denz Nico,Red Bull - BORA - hansgrohe,9,FINISH,FINISH,",, 0:00"
@@ -1073,11 +1073,11 @@ Eschborn-Frankfurt,2025,alex-aranburu,ARANBURU Alex,Cofidis,18,FINISH,FINISH,",,
 Eschborn-Frankfurt,2025,xandro-meurisse,MEURISSE Xandro,Alpecin - Deceuninck,19,FINISH,FINISH,",, 0:00"
 Eschborn-Frankfurt,2025,david-de-la-cruz,de la Cruz David,Q36.5 Pro Cycling Team,20,FINISH,FINISH,",, 0:00"
 Eschborn-Frankfurt,2025,sergio-samitier,Samitier Sergio,Cofidis,21,FINISH,FINISH,",, 0:00"
-Eschborn-Frankfurt,2025,samuele-battistella,Battistella Samuele,EF Education - EasyPost,22,DNF,DNF,
+Eschborn-Frankfurt,2025,samuele-battistella,BATTISTELLA Samuele,EF Education - EasyPost,22,DNF,DNF,
 Eschborn-Frankfurt,2025,diego-pescador,PESCADOR Diego,Movistar Team,22,FINISH,FINISH,",, 0:00"
 Eschborn-Frankfurt,2025,emil-herzog,HERZOG Emil,Red Bull - BORA - hansgrohe,23,FINISH,FINISH,",, 0:00"
 Eschborn-Frankfurt,2025,fredrik-dversnes,DVERSNES LAVIK Fredrik,Uno-X Mobility,24,FINISH,FINISH,",, 0:00"
-Eschborn-Frankfurt,2025,andreas-leknessund,Leknessund Andreas,Uno-X Mobility,25,FINISH,FINISH,0:05 0:05
+Eschborn-Frankfurt,2025,andreas-leknessund,LEKNESSUND Andreas,Uno-X Mobility,25,FINISH,FINISH,0:05 0:05
 Eschborn-Frankfurt,2025,jack-rootkin-gray,Rootkin-Gray Jack,EF Education - EasyPost,25,DNF,DNF,
 Eschborn-Frankfurt,2025,felix-engelhardt,ENGELHARDT Felix,Team Jayco AlUla,26,FINISH,FINISH,",, 0:05"
 Eschborn-Frankfurt,2025,matteo-badilatti,Badilatti Matteo,Q36.5 Pro Cycling Team,27,FINISH,FINISH,",, 0:05"
@@ -1134,7 +1134,7 @@ Eschborn-Frankfurt,2025,roman-ermakov,ERMAKOV Roman,Bahrain - Victorious,71,FINI
 Eschborn-Frankfurt,2025,fabian-weiss,WEISS Fabian,Tudor Pro Cycling Team,72,FINISH,FINISH,",, 16:33"
 Eschborn-Frankfurt,2025,kevin-vermaerke,VERMAERKE Kevin,Team Picnic PostNL,73,FINISH,FINISH,",, 16:33"
 Eschborn-Frankfurt,2025,embret-svestad-bardseng,Svestad-Bårdseng Embret,Arkéa - B&B Hotels,74,FINISH,FINISH,",, 16:33"
-Eschborn-Frankfurt,2025,alexander-kamp,Kamp Alexander,Intermarché - Wanty,75,FINISH,FINISH,",, 16:33"
+Eschborn-Frankfurt,2025,alexander-kamp,KAMP Alexander,Intermarché - Wanty,75,FINISH,FINISH,",, 16:33"
 Eschborn-Frankfurt,2025,alastair-mackellar,MACKELLAR Alastair,EF Education - EasyPost,76,FINISH,FINISH,",, 16:33"
 Eschborn-Frankfurt,2025,max-kanter,KANTER Max,XDS Astana Team,77,FINISH,FINISH,",, 16:33"
 Eschborn-Frankfurt,2025,tim-wellens,WELLENS Tim,UAE Team Emirates - XRG,77,DNS,DNS,
@@ -1203,7 +1203,7 @@ Eschborn-Frankfurt,2024,emanuel-buchmann,Buchmann Emanuel,BORA - hansgrohe,23,FI
 Eschborn-Frankfurt,2024,lucas-eriksson,Eriksson Lucas,Tudor Pro Cycling Team,24,FINISH,FINISH,",, 0:00"
 Eschborn-Frankfurt,2024,alessandro-fancellu,FANCELLU Alessandro,Q36.5 Pro Cycling Team,25,DNF,DNF,
 Eschborn-Frankfurt,2024,callum-scotson,Scotson Callum,Team Jayco AlUla,25,FINISH,FINISH,",, 0:00"
-Eschborn-Frankfurt,2024,sergio-higuita,Higuita Sergio,BORA - hansgrohe,26,FINISH,FINISH,",, 0:00"
+Eschborn-Frankfurt,2024,sergio-higuita,HIGUITA Sergio,BORA - hansgrohe,26,FINISH,FINISH,",, 0:00"
 Eschborn-Frankfurt,2024,matteo-badilatti,Badilatti Matteo,Q36.5 Pro Cycling Team,27,FINISH,FINISH,",, 0:00"
 Eschborn-Frankfurt,2024,jannik-steimle,Steimle Jannik,Q36.5 Pro Cycling Team,27,DNF,DNF,
 Eschborn-Frankfurt,2024,adne-holter,HOLTER Ådne,Uno-X Mobility,28,FINISH,FINISH,",, 0:00"
@@ -1294,7 +1294,7 @@ Eschborn-Frankfurt,2024,caleb-ewan,Ewan Caleb,Team Jayco AlUla,111,DNF,DNF,
 Eschborn-Frankfurt,2024,mauro-schmid,SCHMID Mauro,Team Jayco AlUla,115,DNF,DNF,
 Eschborn-Frankfurt,2024,laurens-huys,Huys Laurens,Arkéa - B&B Hotels,125,DNF,DNF,
 Eschborn-Frankfurt,2024,matis-louvel,LOUVEL Matis,Arkéa - B&B Hotels,127,DNF,DNF,
-Eschborn-Frankfurt,2024,nikias-arndt,Arndt Nikias,Bahrain - Victorious,131,DNF,DNF,
+Eschborn-Frankfurt,2024,nikias-arndt,ARNDT Nikias,Bahrain - Victorious,131,DNF,DNF,
 Eschborn-Frankfurt,2024,jack-haig,HAIG Jack,Bahrain - Victorious,135,DNS,DNS,
 Eschborn-Frankfurt,2024,cameron-scott,Scott Cameron,Bahrain - Victorious,137,DNF,DNF,
 Eschborn-Frankfurt,2024,sam-bennett,Bennett Sam,Decathlon AG2R La Mondiale Team,141,DNF,DNF,
@@ -1346,7 +1346,7 @@ In Flanders Fields,2025,stefan-bissegger,BISSEGGER Stefan,Decathlon AG2R La Mond
 In Flanders Fields,2025,matteo-jorgenson,JORGENSON Matteo,Team Visma | Lease a Bike,30,FINISH,FINISH,",, 0:49"
 In Flanders Fields,2025,brent-van-moer,VAN MOER Brent,Lotto,31,FINISH,FINISH,",, 0:49"
 In Flanders Fields,2025,valentin-madouas,MADOUAS Valentin,Groupama - FDJ,32,FINISH,FINISH,",, 0:49"
-In Flanders Fields,2025,sam-maisonobe,Maisonobe Sam,Cofidis,33,FINISH,FINISH,",, 0:49"
+In Flanders Fields,2025,sam-maisonobe,MAISONOBE Sam,Cofidis,33,FINISH,FINISH,",, 0:49"
 In Flanders Fields,2025,luke-lamperti,LAMPERTI Luke,Soudal Quick-Step,34,DNF,DNF,
 In Flanders Fields,2025,nils-politt,POLITT Nils,UAE Team Emirates - XRG,34,FINISH,FINISH,",, 0:49"
 In Flanders Fields,2025,sander-de-pestel,DE PESTEL Sander,Decathlon AG2R La Mondiale Team,35,FINISH,FINISH,",, 0:49"
@@ -1401,7 +1401,7 @@ In Flanders Fields,2025,alex-colman,Colman Alex,Team Flanders - Baloise,75,FINIS
 In Flanders Fields,2025,jack-rootkin-gray,Rootkin-Gray Jack,EF Education - EasyPost,75,DNF,DNF,
 In Flanders Fields,2025,yuhi-todome,Todome Yuhi,EF Education - EasyPost,76,DNF,DNF,
 In Flanders Fields,2025,mick-van-dijke,VAN DIJKE Mick,Red Bull - BORA - hansgrohe,76,FINISH,FINISH,",, 5:02"
-In Flanders Fields,2025,tobias-foss,Foss Tobias,INEOS Grenadiers,77,FINISH,FINISH,",, 5:02"
+In Flanders Fields,2025,tobias-foss,FOSS Tobias,INEOS Grenadiers,77,FINISH,FINISH,",, 5:02"
 In Flanders Fields,2025,tosh-van-der-sande,Van der Sande Tosh,Team Visma | Lease a Bike,78,FINISH,FINISH,",, 5:02"
 In Flanders Fields,2025,max-walker,WALKER Max,EF Education - EasyPost,79,FINISH,FINISH,5:08 5:08
 In Flanders Fields,2025,riley-pickrell,Pickrell Riley,Israel - Premier Tech,80,FINISH,FINISH,",, 5:08"
@@ -1466,7 +1466,7 @@ In Flanders Fields,2025,michael-schwarzmann,Schwarzmann Michael,Israel - Premier
 In Flanders Fields,2025,giacomo-nizzolo,Nizzolo Giacomo,Q36.5 Pro Cycling Team,201,DNF,DNF,
 In Flanders Fields,2025,david-gonzalez-lopez,GONZÁLEZ David,Q36.5 Pro Cycling Team,202,DNF,DNF,
 In Flanders Fields,2025,kamil-malecki,MAŁECKI Kamil,Q36.5 Pro Cycling Team,204,DNS,DNS,
-In Flanders Fields,2025,nicolo-parisini,Parisini Nicolò,Q36.5 Pro Cycling Team,205,DNF,DNF,
+In Flanders Fields,2025,nicolo-parisini,PARISINI Nicolò,Q36.5 Pro Cycling Team,205,DNF,DNF,
 In Flanders Fields,2025,rory-townsend,Townsend Rory,Q36.5 Pro Cycling Team,207,DNF,DNF,
 In Flanders Fields,2025,victor-vercouillie,VERCOUILLIE Victor,Team Flanders - Baloise,211,DNF,DNF,
 In Flanders Fields,2025,jules-hesters,HESTERS Jules,Team Flanders - Baloise,212,DNF,DNF,
@@ -1613,7 +1613,7 @@ In Flanders Fields,2024,jonas-rutsch,RUTSCH Jonas,EF Education - EasyPost,104,DN
 In Flanders Fields,2024,yuhi-todome,Todome Yuhi,EF Education - EasyPost,107,DNF,DNF,
 In Flanders Fields,2024,olivier-le-gac,Le Gac Olivier,Groupama - FDJ,114,DNF,DNF,
 In Flanders Fields,2024,samuel-watson,WATSON Samuel,Groupama - FDJ,117,DNF,DNF,
-In Flanders Fields,2024,jhonatan-narvaez,Narváez Jhonatan,INEOS Grenadiers,121,DNF,DNF,
+In Flanders Fields,2024,jhonatan-narvaez,NARVÁEZ Jhonatan,INEOS Grenadiers,121,DNF,DNF,
 In Flanders Fields,2024,elia-viviani,Viviani Elia,INEOS Grenadiers,122,DNF,DNF,
 In Flanders Fields,2024,cameron-wurf,Wurf Cameron,INEOS Grenadiers,123,DNF,DNF,
 In Flanders Fields,2024,connor-swift,SWIFT Connor,INEOS Grenadiers,126,DNF,DNF,
@@ -1644,7 +1644,7 @@ In Flanders Fields,2024,alexander-kristoff,Kristoff Alexander,Uno-X Mobility,201
 In Flanders Fields,2024,stian-fredheim,FREDHEIM Stian,Uno-X Mobility,203,DNF,DNF,
 In Flanders Fields,2024,erik-nordsaeter-resell,RESELL Erik Nordsæter,Uno-X Mobility,205,DNF,DNF,
 In Flanders Fields,2024,tobias-ludvigsson,Ludvigsson Tobias,Q36.5 Pro Cycling Team,213,DNF,DNF,
-In Flanders Fields,2024,nicolo-parisini,Parisini Nicolò,Q36.5 Pro Cycling Team,217,DNF,DNF,
+In Flanders Fields,2024,nicolo-parisini,PARISINI Nicolò,Q36.5 Pro Cycling Team,217,DNF,DNF,
 In Flanders Fields,2024,jasper-dejaegher,Dejaegher Jasper,Team Flanders - Baloise,222,DNF,DNF,
 In Flanders Fields,2024,siebe-deweirdt,DEWEIRDT Siebe,Team Flanders - Baloise,223,DNF,DNF,
 In Flanders Fields,2024,jules-hesters,HESTERS Jules,Team Flanders - Baloise,224,DNF,DNF,
@@ -1663,7 +1663,7 @@ La Flèche Wallonne,2025,thomas-pidcock,PIDCOCK Thomas,Q36.5 Pro Cycling Team,3,
 La Flèche Wallonne,2025,simon-clarke,Clarke Simon,Israel - Premier Tech,4,DNF,DNF,
 La Flèche Wallonne,2025,lenny-martinez,MARTINEZ Lenny,Bahrain - Victorious,4,FINISH,FINISH,0:13 0:13
 La Flèche Wallonne,2025,ben-healy,HEALY Ben,EF Education - EasyPost,5,FINISH,FINISH,",, 0:13"
-La Flèche Wallonne,2025,aleksey-lutsenko,Lutsenko Alexey,Israel - Premier Tech,5,DNF,DNF,
+La Flèche Wallonne,2025,aleksey-lutsenko,LUTSENKO Alexey,Israel - Premier Tech,5,DNF,DNF,
 La Flèche Wallonne,2025,santiago-buitrago-sanchez,Buitrago Santiago,Bahrain - Victorious,6,FINISH,FINISH,0:16 0:16
 La Flèche Wallonne,2025,nadav-raisberg,RAISBERG Nadav,Israel - Premier Tech,6,DNF,DNF,
 La Flèche Wallonne,2025,romain-gregoire1,GRÉGOIRE Romain,Groupama - FDJ,7,FINISH,FINISH,",, 0:16"
@@ -1694,7 +1694,7 @@ La Flèche Wallonne,2025,luc-wirtgen,WIRTGEN Luc,Tudor Pro Cycling Team,27,DNF,D
 La Flèche Wallonne,2025,simone-velasco,VELASCO Simone,XDS Astana Team,28,FINISH,FINISH,1:18 1:18
 La Flèche Wallonne,2025,mauri-vansevenant,VANSEVENANT Mauri,Soudal Quick-Step,29,FINISH,FINISH,",, 1:18"
 La Flèche Wallonne,2025,gal-glivar,GLIVAR Gal,Alpecin - Deceuninck,30,FINISH,FINISH,1:21 1:21
-La Flèche Wallonne,2025,raul-garcia-pierna,García Pierna Raúl,Arkéa - B&B Hotels,31,FINISH,FINISH,1:22 1:22
+La Flèche Wallonne,2025,raul-garcia-pierna,GARCÍA PIERNA Raúl,Arkéa - B&B Hotels,31,FINISH,FINISH,1:22 1:22
 La Flèche Wallonne,2025,dylan-teuns,TEUNS Dylan,Cofidis,31,DNF,DNF,
 La Flèche Wallonne,2025,michael-matthews,MATTHEWS Michael,Team Jayco AlUla,32,FINISH,FINISH,",, 1:22"
 La Flèche Wallonne,2025,marcel-camprubi,CAMPRUBÍ Marcel,Q36.5 Pro Cycling Team,33,FINISH,FINISH,",, 1:22"
@@ -1751,7 +1751,7 @@ La Flèche Wallonne,2025,anthony-delaplace,Delaplace Anthony,Arkéa - B&B Hotels
 La Flèche Wallonne,2025,louis-rouland,Rouland Louis,Arkéa - B&B Hotels,71,FINISH,FINISH,",, 3:22"
 La Flèche Wallonne,2025,xabier-mikel-azparren-irurzun,AZPARREN Xabier Mikel,Q36.5 Pro Cycling Team,72,DNF,DNF,
 La Flèche Wallonne,2025,michel-hessmann,Hessmann Michel,Movistar Team,72,FINISH,FINISH,3:26 3:26
-La Flèche Wallonne,2025,andreas-leknessund,Leknessund Andreas,Uno-X Mobility,73,FINISH,FINISH,3:28 3:28
+La Flèche Wallonne,2025,andreas-leknessund,LEKNESSUND Andreas,Uno-X Mobility,73,FINISH,FINISH,3:28 3:28
 La Flèche Wallonne,2025,arjen-livyns,LIVYNS Arjen,Lotto,74,FINISH,FINISH,",, 3:28"
 La Flèche Wallonne,2025,michael-leonard1,Leonard Michael,INEOS Grenadiers,75,FINISH,FINISH,",, 3:28"
 La Flèche Wallonne,2025,harry-sweeny,SWEENY Harry,EF Education - EasyPost,76,FINISH,FINISH,3:53 3:53
@@ -1762,7 +1762,7 @@ La Flèche Wallonne,2025,diego-ulissi,ULISSI Diego,XDS Astana Team,79,FINISH,FIN
 La Flèche Wallonne,2025,gianni-moscon,MOSCON Gianni,Red Bull - BORA - hansgrohe,80,FINISH,FINISH,4:33 4:33
 La Flèche Wallonne,2025,pavel-sivakov,SIVAKOV Pavel,UAE Team Emirates - XRG,81,FINISH,FINISH,4:38 4:38
 La Flèche Wallonne,2025,felix-grossschartner,GROßSCHARTNER Felix,UAE Team Emirates - XRG,82,FINISH,FINISH,",, 4:38"
-La Flèche Wallonne,2025,rudy-molard,Molard Rudy,Groupama - FDJ,83,FINISH,FINISH,4:51 4:51
+La Flèche Wallonne,2025,rudy-molard,MOLARD Rudy,Groupama - FDJ,83,FINISH,FINISH,4:51 4:51
 La Flèche Wallonne,2025,roman-ermakov,ERMAKOV Roman,Bahrain - Victorious,84,DNF,DNF,
 La Flèche Wallonne,2025,callum-scotson,Scotson Callum,Decathlon AG2R La Mondiale Team,84,FINISH,FINISH,4:59 4:59
 La Flèche Wallonne,2025,nick-schultz,SCHULTZ Nick,Israel - Premier Tech,85,FINISH,FINISH,5:15 5:15
@@ -1770,7 +1770,7 @@ La Flèche Wallonne,2025,robert-stannard,STANNARD Robert,Bahrain - Victorious,86
 La Flèche Wallonne,2025,louis-vervaeke,VERVAEKE Louis,Soudal Quick-Step,86,FINISH,FINISH,5:26 5:26
 La Flèche Wallonne,2025,anders-foldager,FOLDAGER Anders,Team Jayco AlUla,87,FINISH,FINISH,5:31 5:31
 La Flèche Wallonne,2025,george-bennett,BENNETT George,Israel - Premier Tech,88,FINISH,FINISH,7:46 7:46
-La Flèche Wallonne,2025,tobias-foss,Foss Tobias,INEOS Grenadiers,89,FINISH,FINISH,",, 7:46"
+La Flèche Wallonne,2025,tobias-foss,FOSS Tobias,INEOS Grenadiers,89,FINISH,FINISH,",, 7:46"
 La Flèche Wallonne,2025,junior-lecerf,LECERF Junior,Soudal Quick-Step,90,FINISH,FINISH,8:19 8:19
 La Flèche Wallonne,2025,gerben-kuypers,Kuypers Gerben,Intermarché - Wanty,91,FINISH,FINISH,8:36 8:36
 La Flèche Wallonne,2025,mattias-skjelmose-jensen,SKJELMOSE Mattias,Lidl - Trek,91,DNF,DNF,
@@ -1802,10 +1802,10 @@ La Flèche Wallonne,2025,martin-urianstad,Martin Urianstad,Uno-X Mobility,112,DN
 La Flèche Wallonne,2025,anders-halland-johannessen,JOHANNESSEN Anders Halland,Uno-X Mobility,115,DNF,DNF,
 La Flèche Wallonne,2025,loe-van-belle,van Belle Loe,Team Visma | Lease a Bike,136,DNF,DNF,
 La Flèche Wallonne,2025,tosh-van-der-sande,Van der Sande Tosh,Team Visma | Lease a Bike,137,DNF,DNF,
-La Flèche Wallonne,2025,nicola-conci,Conci Nicola,XDS Astana Team,142,DNF,DNF,
+La Flèche Wallonne,2025,nicola-conci,CONCI Nicola,XDS Astana Team,142,DNF,DNF,
 La Flèche Wallonne,2025,anton-kuzmin,KUZMIN Anton,XDS Astana Team,143,DNF,DNF,
 La Flèche Wallonne,2025,ide-schelling,Schelling Ide,XDS Astana Team,145,DNF,DNF,
-La Flèche Wallonne,2025,samuele-battistella,Battistella Samuele,EF Education - EasyPost,152,DNF,DNF,
+La Flèche Wallonne,2025,samuele-battistella,BATTISTELLA Samuele,EF Education - EasyPost,152,DNF,DNF,
 La Flèche Wallonne,2025,mikkel-honore,HONORÉ Mikkel Frølich,EF Education - EasyPost,154,DNF,DNF,
 La Flèche Wallonne,2025,victor-langellotti,LANGELLOTTI Victor,INEOS Grenadiers,164,DNF,DNF,
 La Flèche Wallonne,2025,quinten-hermans,HERMANS Quinten,Alpecin - Deceuninck,171,DNF,DNF,
@@ -1824,7 +1824,7 @@ La Flèche Wallonne,2025,loic-vliegen,Vliegen Loïc,Wagner Bazin WB,207,DNF,DNF,
 La Flèche Wallonne,2025,jarrad-drizners,DRIZNERS Jarrad,Lotto,213,DNF,DNF,
 La Flèche Wallonne,2025,michael-hepburn,Hepburn Michael,Team Jayco AlUla,224,DNF,DNF,
 La Flèche Wallonne,2025,dries-de-pooter,DE POOTER Dries,Intermarché - Wanty,233,DNF,DNF,
-La Flèche Wallonne,2025,alexander-kamp,Kamp Alexander,Intermarché - Wanty,234,DNF,DNF,
+La Flèche Wallonne,2025,alexander-kamp,KAMP Alexander,Intermarché - Wanty,234,DNF,DNF,
 La Flèche Wallonne,2025,tom-paquot,Paquot Tom,Intermarché - Wanty,236,DNF,DNF,
 La Flèche Wallonne,2025,luca-van-boven,VAN BOVEN Luca,Intermarché - Wanty,237,DNF,DNF,
 La Flèche Wallonne,2025,lindsay-de-vylder,De Vylder Lindsay,Team Flanders - Baloise,243,DNF,DNF,
@@ -1868,10 +1868,10 @@ La Flèche Wallonne,2024,mauri-vansevenant,VANSEVENANT Mauri,Soudal Quick-Step,2
 La Flèche Wallonne,2024,bruno-armirail,Armirail Bruno,Decathlon AG2R La Mondiale Team,22,FINISH,FINISH,",, 0:32"
 La Flèche Wallonne,2024,antoine-huby,Huby Antoine,Soudal Quick-Step,22,DNF,DNF,
 La Flèche Wallonne,2024,james-knox,KNOX James,Soudal Quick-Step,23,DNF,DNF,
-La Flèche Wallonne,2024,andreas-leknessund,Leknessund Andreas,Uno-X Mobility,23,FINISH,FINISH,0:36 0:36
+La Flèche Wallonne,2024,andreas-leknessund,LEKNESSUND Andreas,Uno-X Mobility,23,FINISH,FINISH,0:36 0:36
 La Flèche Wallonne,2024,davide-formolo,Formolo Davide,Movistar Team,24,FINISH,FINISH,",, 0:36"
 La Flèche Wallonne,2024,pepijn-reinderink,REINDERINK Pepijn,Soudal Quick-Step,24,DNF,DNF,
-La Flèche Wallonne,2024,fabien-doubey,Doubey Fabien,TotalEnergies,25,FINISH,FINISH,0:41 0:41
+La Flèche Wallonne,2024,fabien-doubey,DOUBEY Fabien,TotalEnergies,25,FINISH,FINISH,0:41 0:41
 La Flèche Wallonne,2024,pieter-serry,Serry Pieter,Soudal Quick-Step,25,DNF,DNF,
 La Flèche Wallonne,2024,roger-adria,ADRIÀ Roger,BORA - hansgrohe,26,FINISH,FINISH,0:43 0:43
 La Flèche Wallonne,2024,johannes-staune-mittet,Staune-Mittet Johannes,Team Visma | Lease a Bike,27,FINISH,FINISH,0:52 0:52
@@ -1897,7 +1897,7 @@ La Flèche Wallonne,2024,johan-meens,Meens Johan,Bingoal WB,39,FINISH,FINISH,",,
 La Flèche Wallonne,2024,lorenzo-germani,GERMANI Lorenzo,Groupama - FDJ,40,FINISH,FINISH,6:59 6:59
 La Flèche Wallonne,2024,ion-izagirre,IZAGIRRE Ion,Cofidis,41,DNF,DNF,
 La Flèche Wallonne,2024,andreas-kron,KRON Andreas,Lotto Dstny,41,FINISH,FINISH,",, 6:59"
-La Flèche Wallonne,2024,anthon-charmig,Charmig Anthon,Astana Qazaqstan Team,42,FINISH,FINISH,",, 6:59"
+La Flèche Wallonne,2024,anthon-charmig,CHARMIG Anthon,Astana Qazaqstan Team,42,FINISH,FINISH,",, 6:59"
 La Flèche Wallonne,2024,ruben-fernandez-andujar,Fernández Rubén,Cofidis,42,DNF,DNF,
 La Flèche Wallonne,2024,ben-hermans,Hermans Ben,Cofidis,43,DNS,DNS,
 La Flèche Wallonne,2024,martin-urianstad,Martin Urianstad,Uno-X Mobility,43,FINISH,FINISH,",, 6:59"
@@ -1969,16 +1969,16 @@ La Flèche Wallonne,2024,kevin-colleoni,Colleoni Kevin,Intermarché - Wanty,174,
 La Flèche Wallonne,2024,tom-paquot,Paquot Tom,Intermarché - Wanty,175,DNF,DNF,
 La Flèche Wallonne,2024,lorenzo-rota,ROTA Lorenzo,Intermarché - Wanty,176,DNF,DNF,
 La Flèche Wallonne,2024,rein-taaramae,Taaramäe Rein,Intermarché - Wanty,177,DNF,DNF,
-La Flèche Wallonne,2024,mathieu-burgaudeau,Burgaudeau Mathieu,TotalEnergies,181,DNF,DNF,
+La Flèche Wallonne,2024,mathieu-burgaudeau,BURGAUDEAU Mathieu,TotalEnergies,181,DNF,DNF,
 La Flèche Wallonne,2024,fabien-grellier,Grellier Fabien,TotalEnergies,183,DNF,DNF,
-La Flèche Wallonne,2024,alan-jousseaume,Jousseaume Alan,TotalEnergies,184,DNF,DNF,
+La Flèche Wallonne,2024,alan-jousseaume,JOUSSEAUME Alan,TotalEnergies,184,DNF,DNF,
 La Flèche Wallonne,2024,alexis-vuillermoz,Vuillermoz Alexis,TotalEnergies,186,DNF,DNF,
 La Flèche Wallonne,2024,matheo-vercher,Vercher Mattéo,TotalEnergies,187,DNF,DNF,
 La Flèche Wallonne,2024,jordan-labrosse,LABROSSE Jordan,Decathlon AG2R La Mondiale Team,194,DNF,DNF,
 La Flèche Wallonne,2024,paul-lapeira,LAPEIRA Paul,Decathlon AG2R La Mondiale Team,195,DNF,DNF,
-La Flèche Wallonne,2024,valentin-retailleau,Retailleau Valentin,Decathlon AG2R La Mondiale Team,197,DNF,DNF,
+La Flèche Wallonne,2024,valentin-retailleau,RETAILLEAU Valentin,Decathlon AG2R La Mondiale Team,197,DNF,DNF,
 La Flèche Wallonne,2024,simone-velasco,VELASCO Simone,Astana Qazaqstan Team,201,DNF,DNF,
-La Flèche Wallonne,2024,samuele-battistella,Battistella Samuele,Astana Qazaqstan Team,202,DNF,DNF,
+La Flèche Wallonne,2024,samuele-battistella,BATTISTELLA Samuele,Astana Qazaqstan Team,202,DNF,DNF,
 La Flèche Wallonne,2024,igor-chzhan,Chzhan Igor,Astana Qazaqstan Team,204,DNF,DNF,
 La Flèche Wallonne,2024,yevgeniy-fedorov,FEDOROV Yevgeniy,Astana Qazaqstan Team,205,DNF,DNF,
 La Flèche Wallonne,2024,christian-scaroni,SCARONI Christian,Astana Qazaqstan Team,206,DNF,DNF,
@@ -2027,7 +2027,7 @@ Liège-Bastogne-Liège,2025,emiel-verstrynge,VERSTRYNGE Emiel,Alpecin - Deceunin
 Liège-Bastogne-Liège,2025,alex-aranburu,ARANBURU Alex,Cofidis,15,FINISH,FINISH,",, 1:10"
 Liège-Bastogne-Liège,2025,enzo-leijnse,Leijnse Enzo,Team Picnic PostNL,15,DNF,DNF,
 Liège-Bastogne-Liège,2025,lennert-van-eetvelt,VAN EETVELT Lennert,Lotto,16,FINISH,FINISH,",, 1:10"
-Liège-Bastogne-Liège,2025,andreas-leknessund,Leknessund Andreas,Uno-X Mobility,17,FINISH,FINISH,",, 1:10"
+Liège-Bastogne-Liège,2025,andreas-leknessund,LEKNESSUND Andreas,Uno-X Mobility,17,FINISH,FINISH,",, 1:10"
 Liège-Bastogne-Liège,2025,kevin-vermaerke,VERMAERKE Kevin,Team Picnic PostNL,17,DNF,DNF,
 Liège-Bastogne-Liège,2025,aurelien-paret-peintre,PARET-PEINTRE Aurélien,Decathlon AG2R La Mondiale Team,18,FINISH,FINISH,",, 1:10"
 Liège-Bastogne-Liège,2025,romain-gregoire1,GRÉGOIRE Romain,Groupama - FDJ,19,FINISH,FINISH,",, 1:10"
@@ -2055,7 +2055,7 @@ Liège-Bastogne-Liège,2025,diego-ulissi,ULISSI Diego,XDS Astana Team,36,FINISH,
 Liège-Bastogne-Liège,2025,santiago-buitrago-sanchez,Buitrago Santiago,Bahrain - Victorious,37,FINISH,FINISH,",, 1:10"
 Liège-Bastogne-Liège,2025,pavel-sivakov,SIVAKOV Pavel,UAE Team Emirates - XRG,38,FINISH,FINISH,",, 1:10"
 Liège-Bastogne-Liège,2025,mattias-skjelmose-jensen,SKJELMOSE Mattias,Lidl - Trek,39,FINISH,FINISH,",, 1:10"
-Liège-Bastogne-Liège,2025,aleksey-lutsenko,Lutsenko Alexey,Israel - Premier Tech,40,FINISH,FINISH,",, 1:10"
+Liège-Bastogne-Liège,2025,aleksey-lutsenko,LUTSENKO Alexey,Israel - Premier Tech,40,FINISH,FINISH,",, 1:10"
 Liège-Bastogne-Liège,2025,magnus-sheffield,SHEFFIELD Magnus,INEOS Grenadiers,41,FINISH,FINISH,",, 1:10"
 Liège-Bastogne-Liège,2025,chris-harper,Harper Chris,Team Jayco AlUla,42,FINISH,FINISH,",, 1:10"
 Liège-Bastogne-Liège,2025,nick-schultz,SCHULTZ Nick,Israel - Premier Tech,43,FINISH,FINISH,1:15 1:15
@@ -2065,7 +2065,7 @@ Liège-Bastogne-Liège,2025,laurens-huys,Huys Laurens,Arkéa - B&B Hotels,45,DNF
 Liège-Bastogne-Liège,2025,bastien-tronchon,TRONCHON Bastien,Decathlon AG2R La Mondiale Team,46,FINISH,FINISH,",, 2:20"
 Liège-Bastogne-Liège,2025,quinten-hermans,HERMANS Quinten,Alpecin - Deceuninck,47,FINISH,FINISH,2:58 2:58
 Liège-Bastogne-Liège,2025,georg-zimmermann,ZIMMERMANN Georg,Intermarché - Wanty,48,FINISH,FINISH,",, 2:58"
-Liège-Bastogne-Liège,2025,nicola-conci,Conci Nicola,XDS Astana Team,49,FINISH,FINISH,",, 2:58"
+Liège-Bastogne-Liège,2025,nicola-conci,CONCI Nicola,XDS Astana Team,49,FINISH,FINISH,",, 2:58"
 Liège-Bastogne-Liège,2025,kevin-vauquelin,Vauquelin Kévin,Arkéa - B&B Hotels,50,FINISH,FINISH,",, 2:58"
 Liège-Bastogne-Liège,2025,maxim-van-gils,VAN GILS Maxim,Red Bull - BORA - hansgrohe,51,DNF,DNF,
 Liège-Bastogne-Liège,2025,filippo-zana,ZANA Filippo,Team Jayco AlUla,51,FINISH,FINISH,",, 2:58"
@@ -2074,7 +2074,7 @@ Liège-Bastogne-Liège,2025,jack-haig,HAIG Jack,Bahrain - Victorious,53,FINISH,F
 Liège-Bastogne-Liège,2025,nelson-oliveira,Oliveira Nelson,Movistar Team,54,FINISH,FINISH,",, 2:58"
 Liège-Bastogne-Liège,2025,ruben-guerreiro,Guerreiro Ruben,Movistar Team,55,FINISH,FINISH,",, 2:58"
 Liège-Bastogne-Liège,2025,gianni-moscon,MOSCON Gianni,Red Bull - BORA - hansgrohe,55,DNF,DNF,
-Liège-Bastogne-Liège,2025,rudy-molard,Molard Rudy,Groupama - FDJ,56,FINISH,FINISH,",, 2:58"
+Liège-Bastogne-Liège,2025,rudy-molard,MOLARD Rudy,Groupama - FDJ,56,FINISH,FINISH,",, 2:58"
 Liège-Bastogne-Liège,2025,giulio-pellizzari,PELLIZZARI Giulio,Red Bull - BORA - hansgrohe,57,FINISH,FINISH,3:01 3:01
 Liège-Bastogne-Liège,2025,julian-alaphilippe,ALAPHILIPPE Julian,Tudor Pro Cycling Team,58,FINISH,FINISH,3:03 3:03
 Liège-Bastogne-Liège,2025,remco-evenepoel,EVENEPOEL Remco,Soudal Quick-Step,59,FINISH,FINISH,3:11 3:11
@@ -2089,7 +2089,7 @@ Liège-Bastogne-Liège,2025,adne-holter,HOLTER Ådne,Uno-X Mobility,66,FINISH,FI
 Liège-Bastogne-Liège,2025,fabian-weiss,WEISS Fabian,Tudor Pro Cycling Team,66,DNF,DNF,
 Liège-Bastogne-Liège,2025,sakarias-koller-loland,LØLAND Sakarias Koller,Uno-X Mobility,67,FINISH,FINISH,",, 5:41"
 Liège-Bastogne-Liège,2025,sylvain-moniquet,Moniquet Sylvain,Cofidis,68,FINISH,FINISH,",, 5:41"
-Liège-Bastogne-Liège,2025,mathieu-burgaudeau,Burgaudeau Mathieu,TotalEnergies,69,FINISH,FINISH,",, 5:41"
+Liège-Bastogne-Liège,2025,mathieu-burgaudeau,BURGAUDEAU Mathieu,TotalEnergies,69,FINISH,FINISH,",, 5:41"
 Liège-Bastogne-Liège,2025,jordan-labrosse,LABROSSE Jordan,Decathlon AG2R La Mondiale Team,70,FINISH,FINISH,",, 5:41"
 Liège-Bastogne-Liège,2025,xandro-meurisse,MEURISSE Xandro,Alpecin - Deceuninck,71,FINISH,FINISH,",, 5:41"
 Liège-Bastogne-Liège,2025,george-bennett,BENNETT George,Israel - Premier Tech,72,DNS,DNS,
@@ -2105,7 +2105,7 @@ Liège-Bastogne-Liège,2025,davide-formolo,Formolo Davide,Movistar Team,79,FINIS
 Liège-Bastogne-Liège,2025,ramses-debruyne,Debruyne Ramses,Alpecin - Deceuninck,80,FINISH,FINISH,5:48 5:48
 Liège-Bastogne-Liège,2025,laurens-de-plus,De Plus Laurens,INEOS Grenadiers,81,FINISH,FINISH,",, 5:48"
 Liège-Bastogne-Liège,2025,romain-bardet,Bardet Romain,Team Picnic PostNL,82,FINISH,FINISH,",, 5:48"
-Liège-Bastogne-Liège,2025,tobias-foss,Foss Tobias,INEOS Grenadiers,83,DNF,DNF,
+Liège-Bastogne-Liège,2025,tobias-foss,FOSS Tobias,INEOS Grenadiers,83,DNF,DNF,
 Liège-Bastogne-Liège,2025,eduardo-sepulveda,Sepúlveda Eduardo,Lotto,83,FINISH,FINISH,8:11 8:11
 Liège-Bastogne-Liège,2025,magnus-cort-nielsen,CORT Magnus,Uno-X Mobility,84,FINISH,FINISH,",, 8:11"
 Liège-Bastogne-Liège,2025,bob-jungels,Jungels Bob,INEOS Grenadiers,84,DNF,DNF,
@@ -2114,14 +2114,14 @@ Liège-Bastogne-Liège,2025,david-de-la-cruz,de la Cruz David,Q36.5 Pro Cycling 
 Liège-Bastogne-Liège,2025,xabier-mikel-azparren-irurzun,AZPARREN Xabier Mikel,Q36.5 Pro Cycling Team,87,FINISH,FINISH,",, 9:40"
 Liège-Bastogne-Liège,2025,dylan-teuns,TEUNS Dylan,Cofidis,88,FINISH,FINISH,10:56 10:56
 Liège-Bastogne-Liège,2025,ilan-van-wilder,VAN WILDER Ilan,Soudal Quick-Step,89,FINISH,FINISH,",, 10:56"
-Liège-Bastogne-Liège,2025,samuele-battistella,Battistella Samuele,EF Education - EasyPost,90,FINISH,FINISH,",, 10:56"
+Liège-Bastogne-Liège,2025,samuele-battistella,BATTISTELLA Samuele,EF Education - EasyPost,90,FINISH,FINISH,",, 10:56"
 Liège-Bastogne-Liège,2025,harry-sweeny,SWEENY Harry,EF Education - EasyPost,91,FINISH,FINISH,",, 10:56"
 Liège-Bastogne-Liège,2025,maximilian-schachmann,SCHACHMANN Maximilian,Soudal Quick-Step,92,FINISH,FINISH,",, 10:56"
 Liège-Bastogne-Liège,2025,geraint-thomas,Thomas Geraint,INEOS Grenadiers,93,FINISH,FINISH,",, 10:56"
 Liège-Bastogne-Liège,2025,logan-currie,Currie Logan,Lotto,94,FINISH,FINISH,",, 10:56"
 Liège-Bastogne-Liège,2025,anthony-delaplace,Delaplace Anthony,Arkéa - B&B Hotels,95,FINISH,FINISH,",, 10:56"
 Liège-Bastogne-Liège,2025,jakob-fuglsang,Fuglsang Jakob,Israel - Premier Tech,96,FINISH,FINISH,",, 10:56"
-Liège-Bastogne-Liège,2025,raul-garcia-pierna,García Pierna Raúl,Arkéa - B&B Hotels,97,FINISH,FINISH,",, 10:56"
+Liège-Bastogne-Liège,2025,raul-garcia-pierna,GARCÍA PIERNA Raúl,Arkéa - B&B Hotels,97,FINISH,FINISH,",, 10:56"
 Liège-Bastogne-Liège,2025,otto-vergaerde,VERGAERDE Otto,Lidl - Trek,97,DNF,DNF,
 Liège-Bastogne-Liège,2025,callum-scotson,Scotson Callum,Decathlon AG2R La Mondiale Team,98,FINISH,FINISH,",, 10:56"
 Liège-Bastogne-Liège,2025,enric-mas,Mas Enric,Movistar Team,99,FINISH,FINISH,",, 10:56"
@@ -2132,7 +2132,7 @@ Liège-Bastogne-Liège,2025,hannes-wilksch,WILKSCH Hannes,Tudor Pro Cycling Team
 Liège-Bastogne-Liège,2025,marco-brenner,Brenner Marco,Tudor Pro Cycling Team,104,FINISH,FINISH,",, 14:27"
 Liège-Bastogne-Liège,2025,yannis-voisard,VOISARD Yannis,Tudor Pro Cycling Team,105,FINISH,FINISH,",, 14:27"
 Liège-Bastogne-Liège,2025,mathis-le-berre,Le Berre Mathis,Arkéa - B&B Hotels,106,FINISH,FINISH,",, 14:27"
-Liège-Bastogne-Liège,2025,fabien-doubey,Doubey Fabien,TotalEnergies,107,FINISH,FINISH,",, 14:27"
+Liège-Bastogne-Liège,2025,fabien-doubey,DOUBEY Fabien,TotalEnergies,107,FINISH,FINISH,",, 14:27"
 Liège-Bastogne-Liège,2025,julien-bernard,Bernard Julien,Lidl - Trek,108,FINISH,FINISH,",, 14:27"
 Liège-Bastogne-Liège,2025,quentin-pacher,PACHER Quentin,Groupama - FDJ,109,FINISH,FINISH,",, 14:27"
 Liège-Bastogne-Liège,2025,ceriel-desal,Desal Ceriel,Wagner Bazin WB,110,FINISH,FINISH,16:17 16:17
@@ -2146,7 +2146,7 @@ Liège-Bastogne-Liège,2025,stan-van-tricht,Van Tricht Stan,Alpecin - Deceuninck
 Liège-Bastogne-Liège,2025,kasper-asgreen,ASGREEN Kasper,EF Education - EasyPost,117,FINISH,FINISH,16:45 16:45
 Liège-Bastogne-Liège,2025,remi-cavagna,Cavagna Rémi,Groupama - FDJ,118,FINISH,FINISH,",, 16:45"
 Liège-Bastogne-Liège,2025,tobias-bayer,BAYER Tobias,Alpecin - Deceuninck,119,FINISH,FINISH,16:47 16:47
-Liège-Bastogne-Liège,2025,valentin-retailleau,Retailleau Valentin,TotalEnergies,120,FINISH,FINISH,",, 16:47"
+Liège-Bastogne-Liège,2025,valentin-retailleau,RETAILLEAU Valentin,TotalEnergies,120,FINISH,FINISH,",, 16:47"
 Liège-Bastogne-Liège,2025,henri-francois-renard-haquin,RENARD-HAQUIN Henri-François,Wagner Bazin WB,121,FINISH,FINISH,",, 16:47"
 Liège-Bastogne-Liège,2025,paul-ourselin,OURSELIN Paul,Cofidis,122,FINISH,FINISH,",, 16:47"
 Liège-Bastogne-Liège,2025,marcel-camprubi,CAMPRUBÍ Marcel,Q36.5 Pro Cycling Team,123,FINISH,FINISH,",, 16:47"
@@ -2172,7 +2172,7 @@ Liège-Bastogne-Liège,2025,martin-urianstad,Martin Urianstad,Uno-X Mobility,182
 Liège-Bastogne-Liège,2025,michael-hepburn,Hepburn Michael,Team Jayco AlUla,204,DNF,DNF,
 Liège-Bastogne-Liège,2025,kamiel-bonneu,BONNEU Kamiel,Intermarché - Wanty,212,DNF,DNF,
 Liège-Bastogne-Liège,2025,dries-de-pooter,DE POOTER Dries,Intermarché - Wanty,213,DNF,DNF,
-Liège-Bastogne-Liège,2025,alexander-kamp,Kamp Alexander,Intermarché - Wanty,214,DNF,DNF,
+Liège-Bastogne-Liège,2025,alexander-kamp,KAMP Alexander,Intermarché - Wanty,214,DNF,DNF,
 Liège-Bastogne-Liège,2025,gerben-kuypers,Kuypers Gerben,Intermarché - Wanty,215,DNF,DNF,
 Liège-Bastogne-Liège,2025,tom-paquot,Paquot Tom,Intermarché - Wanty,216,DNF,DNF,
 Liège-Bastogne-Liège,2025,jarrad-drizners,DRIZNERS Jarrad,Lotto,223,DNF,DNF,
@@ -2190,7 +2190,7 @@ Liège-Bastogne-Liège,2024,maxim-van-gils,VAN GILS Maxim,Lotto Dstny,4,FINISH,F
 Liège-Bastogne-Liège,2024,aurelien-paret-peintre,PARET-PEINTRE Aurélien,Decathlon AG2R La Mondiale Team,5,FINISH,FINISH,",, 2:02"
 Liège-Bastogne-Liège,2024,mauri-vansevenant,VANSEVENANT Mauri,Soudal Quick-Step,6,FINISH,FINISH,",, 2:02"
 Liège-Bastogne-Liège,2024,valentin-madouas,MADOUAS Valentin,Groupama - FDJ,7,FINISH,FINISH,",, 2:02"
-Liège-Bastogne-Liège,2024,aleksey-lutsenko,Lutsenko Alexey,Astana Qazaqstan Team,8,FINISH,FINISH,",, 2:02"
+Liège-Bastogne-Liège,2024,aleksey-lutsenko,LUTSENKO Alexey,Astana Qazaqstan Team,8,FINISH,FINISH,",, 2:02"
 Liège-Bastogne-Liège,2024,pello-bilbao,BILBAO Pello,Bahrain - Victorious,9,FINISH,FINISH,",, 2:02"
 Liège-Bastogne-Liège,2024,thomas-pidcock,PIDCOCK Thomas,INEOS Grenadiers,10,FINISH,FINISH,",, 2:02"
 Liège-Bastogne-Liège,2024,paul-lapeira,LAPEIRA Paul,Decathlon AG2R La Mondiale Team,11,FINISH,FINISH,",, 2:02"
@@ -2250,10 +2250,10 @@ Liège-Bastogne-Liège,2024,nick-schultz,SCHULTZ Nick,Israel - Premier Tech,57,F
 Liège-Bastogne-Liège,2024,simon-clarke,Clarke Simon,Israel - Premier Tech,58,FINISH,FINISH,",, 13:10"
 Liège-Bastogne-Liège,2024,harry-sweeny,SWEENY Harry,EF Education - EasyPost,59,FINISH,FINISH,",, 13:10"
 Liège-Bastogne-Liège,2024,domen-novak,NOVAK Domen,UAE Team Emirates,60,FINISH,FINISH,",, 13:10"
-Liège-Bastogne-Liège,2024,andreas-leknessund,Leknessund Andreas,Uno-X Mobility,61,FINISH,FINISH,14:49 14:49
+Liège-Bastogne-Liège,2024,andreas-leknessund,LEKNESSUND Andreas,Uno-X Mobility,61,FINISH,FINISH,14:49 14:49
 Liège-Bastogne-Liège,2024,ruben-fernandez-andujar,Fernández Rubén,Cofidis,62,DNF,DNF,
 Liège-Bastogne-Liège,2024,johannes-kulset,Kulset Johannes,Uno-X Mobility,62,FINISH,FINISH,15:06 15:06
-Liège-Bastogne-Liège,2024,anthon-charmig,Charmig Anthon,Astana Qazaqstan Team,63,FINISH,FINISH,15:09 15:09
+Liège-Bastogne-Liège,2024,anthon-charmig,CHARMIG Anthon,Astana Qazaqstan Team,63,FINISH,FINISH,15:09 15:09
 Liège-Bastogne-Liège,2024,gorka-izagirre,Izagirre Gorka,Cofidis,64,DNF,DNF,
 Liège-Bastogne-Liège,2024,oier-lazkano,Lazkano Oier,Movistar Team,64,FINISH,FINISH,15:12 15:12
 Liège-Bastogne-Liège,2024,omar-fraile,Fraile Omar,INEOS Grenadiers,65,FINISH,FINISH,",, 15:12"
@@ -2273,10 +2273,10 @@ Liège-Bastogne-Liège,2024,santiago-umba,Umba Santiago,Astana Qazaqstan Team,76
 Liège-Bastogne-Liège,2024,tosh-van-der-sande,Van der Sande Tosh,Team Visma | Lease a Bike,76,DNF,DNF,
 Liège-Bastogne-Liège,2024,jordan-jegat,Jegat Jordan,TotalEnergies,77,FINISH,FINISH,",, 17:08"
 Liège-Bastogne-Liège,2024,julien-vermote,Vermote Julien,Team Visma | Lease a Bike,77,DNF,DNF,
-Liège-Bastogne-Liège,2024,mathieu-burgaudeau,Burgaudeau Mathieu,TotalEnergies,78,FINISH,FINISH,",, 17:08"
+Liège-Bastogne-Liège,2024,mathieu-burgaudeau,BURGAUDEAU Mathieu,TotalEnergies,78,FINISH,FINISH,",, 17:08"
 Liège-Bastogne-Liège,2024,lorenzo-fortunato,Fortunato Lorenzo,Astana Qazaqstan Team,79,FINISH,FINISH,",, 17:08"
 Liège-Bastogne-Liège,2024,luca-van-boven,VAN BOVEN Luca,Bingoal WB,80,FINISH,FINISH,",, 17:08"
-Liège-Bastogne-Liège,2024,alan-jousseaume,Jousseaume Alan,TotalEnergies,81,FINISH,FINISH,",, 17:08"
+Liège-Bastogne-Liège,2024,alan-jousseaume,JOUSSEAUME Alan,TotalEnergies,81,FINISH,FINISH,",, 17:08"
 Liège-Bastogne-Liège,2024,roger-adria,ADRIÀ Roger,BORA - hansgrohe,82,FINISH,FINISH,",, 17:08"
 Liège-Bastogne-Liège,2024,giovanni-aleotti,Aleotti Giovanni,BORA - hansgrohe,83,DNF,DNF,
 Liège-Bastogne-Liège,2024,laurens-huys,Huys Laurens,Arkéa - B&B Hotels,83,FINISH,FINISH,",, 17:08"
@@ -2337,7 +2337,7 @@ Liège-Bastogne-Liège,2024,mauro-schmid,SCHMID Mauro,Team Jayco AlUla,176,DNF,D
 Liège-Bastogne-Liège,2024,william-barta,William Barta,Movistar Team,184,DNF,DNF,
 Liège-Bastogne-Liège,2024,carlos-canal,CANAL Carlos,Movistar Team,185,DNF,DNF,
 Liège-Bastogne-Liège,2024,ivan-romeo,ROMEO Iván,Movistar Team,187,DNF,DNF,
-Liège-Bastogne-Liège,2024,fabien-doubey,Doubey Fabien,TotalEnergies,202,DNF,DNF,
+Liège-Bastogne-Liège,2024,fabien-doubey,DOUBEY Fabien,TotalEnergies,202,DNF,DNF,
 Liège-Bastogne-Liège,2024,paul-ourselin,OURSELIN Paul,TotalEnergies,206,DNF,DNF,
 Liège-Bastogne-Liège,2024,dimitri-peyskens,Peyskens Dimitri,Bingoal WB,214,DNF,DNF,
 Liège-Bastogne-Liège,2024,aaron-van-der-beken,Van der Beken Aaron,Bingoal WB,215,DNF,DNF,
@@ -2399,7 +2399,7 @@ Milano-Sanremo,2025,tobias-halland-johannessen,JOHANNESSEN Tobias Halland,Uno-X 
 Milano-Sanremo,2025,thomas-pidcock,PIDCOCK Thomas,Q36.5 Pro Cycling Team,40,FINISH,FINISH,",, 0:43"
 Milano-Sanremo,2025,kevin-vauquelin,Vauquelin Kévin,Arkéa - B&B Hotels,41,FINISH,FINISH,0:47 0:47
 Milano-Sanremo,2025,julian-alaphilippe,ALAPHILIPPE Julian,Tudor Pro Cycling Team,42,FINISH,FINISH,",, 0:47"
-Milano-Sanremo,2025,tobias-foss,Foss Tobias,INEOS Grenadiers,43,FINISH,FINISH,",, 0:47"
+Milano-Sanremo,2025,tobias-foss,FOSS Tobias,INEOS Grenadiers,43,FINISH,FINISH,",, 0:47"
 Milano-Sanremo,2025,axel-laurance,LAURANCE Axel,INEOS Grenadiers,44,FINISH,FINISH,",, 0:47"
 Milano-Sanremo,2025,quinten-hermans,HERMANS Quinten,Alpecin - Deceuninck,45,FINISH,FINISH,",, 0:47"
 Milano-Sanremo,2025,alex-kirsch,KIRSCH Alex,Lidl - Trek,46,FINISH,FINISH,1:29 1:29
@@ -2438,10 +2438,10 @@ Milano-Sanremo,2025,oliver-naesen,NAESEN Oliver,Decathlon AG2R La Mondiale Team,
 Milano-Sanremo,2025,kyrylo-tsarenko,Tsarenko Kyrylo,Team Solution Tech - Vini Fantini,79,FINISH,FINISH,",, 2:38"
 Milano-Sanremo,2025,damiano-caruso,CARUSO Damiano,Bahrain - Victorious,80,FINISH,FINISH,",, 2:38"
 Milano-Sanremo,2025,jonathan-milan,MILAN Jonathan,Lidl - Trek,81,FINISH,FINISH,",, 2:38"
-Milano-Sanremo,2025,raul-garcia-pierna,García Pierna Raúl,Arkéa - B&B Hotels,82,FINISH,FINISH,2:44 2:44
+Milano-Sanremo,2025,raul-garcia-pierna,GARCÍA PIERNA Raúl,Arkéa - B&B Hotels,82,FINISH,FINISH,2:44 2:44
 Milano-Sanremo,2025,jakob-fuglsang,Fuglsang Jakob,Israel - Premier Tech,83,FINISH,FINISH,",, 2:44"
 Milano-Sanremo,2025,warren-barguil,BARGUIL Warren,Team Picnic PostNL,84,FINISH,FINISH,",, 2:44"
-Milano-Sanremo,2025,jhonatan-narvaez,Narváez Jhonatan,UAE Team Emirates - XRG,85,FINISH,FINISH,",, 2:44"
+Milano-Sanremo,2025,jhonatan-narvaez,NARVÁEZ Jhonatan,UAE Team Emirates - XRG,85,FINISH,FINISH,",, 2:44"
 Milano-Sanremo,2025,kevin-geniets,GENIETS Kevin,Groupama - FDJ,86,FINISH,FINISH,",, 2:44"
 Milano-Sanremo,2025,victor-campenaerts,CAMPENAERTS Victor,Team Visma | Lease a Bike,87,FINISH,FINISH,2:55 2:55
 Milano-Sanremo,2025,mattia-cattaneo,CATTANEO Mattia,Soudal Quick-Step,88,FINISH,FINISH,3:20 3:20
@@ -2470,7 +2470,7 @@ Milano-Sanremo,2025,axel-zingle,ZINGLE Axel,Team Visma | Lease a Bike,109,FINISH
 Milano-Sanremo,2025,geraint-thomas,Thomas Geraint,INEOS Grenadiers,110,FINISH,FINISH,7:08 7:08
 Milano-Sanremo,2025,luca-paletti,PALETTI Luca,VF Group - Bardiani CSF - Faizanè,111,FINISH,FINISH,",, 7:08"
 Milano-Sanremo,2025,cedric-beullens,BEULLENS Cedric,Lotto,112,DNS,DNS,
-Milano-Sanremo,2025,marco-frigo,Frigo Marco,Israel - Premier Tech,112,FINISH,FINISH,",, 7:08"
+Milano-Sanremo,2025,marco-frigo,FRIGO Marco,Israel - Premier Tech,112,FINISH,FINISH,",, 7:08"
 Milano-Sanremo,2025,alessio-martinelli,MARTINELLI Alessio,VF Group - Bardiani CSF - Faizanè,113,FINISH,FINISH,",, 7:08"
 Milano-Sanremo,2025,baptiste-veistroffer,Veistroffer Baptiste,Lotto,114,FINISH,FINISH,",, 7:08"
 Milano-Sanremo,2025,jasha-sutterlin,SÜTTERLIN Jasha,Team Jayco AlUla,115,FINISH,FINISH,",, 7:08"
@@ -2552,7 +2552,7 @@ Milano-Sanremo,2024,simon-clarke,Clarke Simon,Israel - Premier Tech,18,FINISH,FI
 Milano-Sanremo,2024,quentin-pacher,PACHER Quentin,Groupama - FDJ,19,FINISH,FINISH,",, 0:35"
 Milano-Sanremo,2024,benoit-cosnefroy,COSNEFROY Benoît,Decathlon AG2R La Mondiale Team,20,FINISH,FINISH,",, 0:35"
 Milano-Sanremo,2024,matteo-trentin,TRENTIN Matteo,Tudor Pro Cycling Team,21,FINISH,FINISH,",, 0:35"
-Milano-Sanremo,2024,samuele-battistella,Battistella Samuele,Astana Qazaqstan Team,22,FINISH,FINISH,",, 0:35"
+Milano-Sanremo,2024,samuele-battistella,BATTISTELLA Samuele,Astana Qazaqstan Team,22,FINISH,FINISH,",, 0:35"
 Milano-Sanremo,2024,stefan-kung,KÜNG Stefan,Groupama - FDJ,23,FINISH,FINISH,",, 0:35"
 Milano-Sanremo,2024,vincenzo-albanese,ALBANESE Vincenzo,Arkéa - B&B Hotels,24,FINISH,FINISH,",, 0:35"
 Milano-Sanremo,2024,simone-velasco,VELASCO Simone,Astana Qazaqstan Team,25,FINISH,FINISH,",, 0:35"
@@ -2565,7 +2565,7 @@ Milano-Sanremo,2024,soren-kragh-andersen,KRAGH ANDERSEN Søren,Alpecin - Deceuni
 Milano-Sanremo,2024,toms-skujins,SKUJIŅŠ Toms,Lidl - Trek,32,FINISH,FINISH,",, 0:35"
 Milano-Sanremo,2024,odd-christian-eiking,EIKING Odd Christian,Uno-X Mobility,33,FINISH,FINISH,",, 0:35"
 Milano-Sanremo,2024,jonas-abrahamsen,ABRAHAMSEN Jonas,Uno-X Mobility,34,FINISH,FINISH,",, 0:35"
-Milano-Sanremo,2024,jhonatan-narvaez,Narváez Jhonatan,INEOS Grenadiers,35,FINISH,FINISH,",, 0:35"
+Milano-Sanremo,2024,jhonatan-narvaez,NARVÁEZ Jhonatan,INEOS Grenadiers,35,FINISH,FINISH,",, 0:35"
 Milano-Sanremo,2024,christian-scaroni,SCARONI Christian,Astana Qazaqstan Team,36,FINISH,FINISH,",, 0:35"
 Milano-Sanremo,2024,marco-haller,HALLER Marco,BORA - hansgrohe,37,FINISH,FINISH,",, 0:35"
 Milano-Sanremo,2024,giovanni-aleotti,Aleotti Giovanni,BORA - hansgrohe,38,FINISH,FINISH,",, 0:35"
@@ -2577,7 +2577,7 @@ Milano-Sanremo,2024,jon-barrenetxea-golzarri,BARRENETXEA Jon,Movistar Team,42,FI
 Milano-Sanremo,2024,arnaud-demare,Démare Arnaud,Arkéa - B&B Hotels,43,FINISH,FINISH,",, 1:16"
 Milano-Sanremo,2024,mirco-maestri,MAESTRI Mirco,Team Polti Kometa,44,FINISH,FINISH,",, 1:16"
 Milano-Sanremo,2024,nico-denz,Denz Nico,BORA - hansgrohe,45,FINISH,FINISH,",, 1:16"
-Milano-Sanremo,2024,nikias-arndt,Arndt Nikias,Bahrain - Victorious,46,FINISH,FINISH,",, 1:16"
+Milano-Sanremo,2024,nikias-arndt,ARNDT Nikias,Bahrain - Victorious,46,FINISH,FINISH,",, 1:16"
 Milano-Sanremo,2024,fredrik-dversnes,DVERSNES LAVIK Fredrik,Uno-X Mobility,47,FINISH,FINISH,",, 1:16"
 Milano-Sanremo,2024,kevin-vermaerke,VERMAERKE Kevin,Team dsm-firmenich PostNL,48,FINISH,FINISH,",, 1:16"
 Milano-Sanremo,2024,carlos-canal,CANAL Carlos,Movistar Team,49,FINISH,FINISH,",, 1:16"
@@ -2630,7 +2630,7 @@ Milano-Sanremo,2024,lorenzo-quartucci,QUARTUCCI Lorenzo,Team Corratec - Vini Fan
 Milano-Sanremo,2024,davide-gabburo,Gabburo Davide,VF Group - Bardiani CSF - Faizanè,96,FINISH,FINISH,",, 4:40"
 Milano-Sanremo,2024,edvald-boasson-hagen,Boasson Hagen Edvald,Decathlon AG2R La Mondiale Team,97,FINISH,FINISH,",, 4:40"
 Milano-Sanremo,2024,salvatore-puccio,Puccio Salvatore,INEOS Grenadiers,97,DNF,DNF,
-Milano-Sanremo,2024,stefano-oldani,Oldani Stefano,Cofidis,98,FINISH,FINISH,",, 4:40"
+Milano-Sanremo,2024,stefano-oldani,OLDANI Stefano,Cofidis,98,FINISH,FINISH,",, 4:40"
 Milano-Sanremo,2024,andrea-pasqualon,Pasqualon Andrea,Bahrain - Victorious,99,FINISH,FINISH,",, 4:40"
 Milano-Sanremo,2024,michael-valgren-andersen,VALGREN Michael,EF Education - EasyPost,100,FINISH,FINISH,",, 4:40"
 Milano-Sanremo,2024,danny-van-poppel,VAN POPPEL Danny,BORA - hansgrohe,101,FINISH,FINISH,",, 4:40"
@@ -2646,7 +2646,7 @@ Milano-Sanremo,2024,dries-de-bondt,DE BONDT Dries,Decathlon AG2R La Mondiale Tea
 Milano-Sanremo,2024,marius-mayrhofer,MAYRHOFER Marius,Tudor Pro Cycling Team,111,FINISH,FINISH,",, 4:40"
 Milano-Sanremo,2024,marc-hirschi,HIRSCHI Marc,UAE Team Emirates,112,FINISH,FINISH,",, 4:40"
 Milano-Sanremo,2024,ben-swift,SWIFT Ben,INEOS Grenadiers,113,FINISH,FINISH,",, 4:40"
-Milano-Sanremo,2024,aleksey-lutsenko,Lutsenko Alexey,Astana Qazaqstan Team,114,FINISH,FINISH,",, 4:40"
+Milano-Sanremo,2024,aleksey-lutsenko,LUTSENKO Alexey,Astana Qazaqstan Team,114,FINISH,FINISH,",, 4:40"
 Milano-Sanremo,2024,alessandro-covi,COVI Alessandro,UAE Team Emirates,115,FINISH,FINISH,",, 4:40"
 Milano-Sanremo,2024,martin-marcellusi,MARCELLUSI Martin,VF Group - Bardiani CSF - Faizanè,116,FINISH,FINISH,",, 4:40"
 Milano-Sanremo,2024,alessandro-de-marchi,De Marchi Alessandro,Team Jayco AlUla,117,FINISH,FINISH,",, 4:40"
@@ -2695,7 +2695,7 @@ Milano-Sanremo,2024,luke-durbridge,DURBRIDGE Luke,Team Jayco AlUla,157,FINISH,FI
 Milano-Sanremo,2024,tim-van-dijke,VAN DIJKE Tim,Team Visma | Lease a Bike,158,FINISH,FINISH,",, 11:58"
 Milano-Sanremo,2024,nicolas-debeaumarche,DEBEAUMARCHÉ Nicolas,Cofidis,159,FINISH,FINISH,",, 11:58"
 Milano-Sanremo,2024,sergio-samitier,Samitier Sergio,Movistar Team,160,FINISH,FINISH,12:40 12:40
-Milano-Sanremo,2024,alexander-kamp,Kamp Alexander,Tudor Pro Cycling Team,161,FINISH,FINISH,13:57 13:57
+Milano-Sanremo,2024,alexander-kamp,KAMP Alexander,Tudor Pro Cycling Team,161,FINISH,FINISH,13:57 13:57
 Milano-Sanremo,2024,patrick-bevin,Bevin Patrick,Team dsm-firmenich PostNL,162,DNF,DNF,
 Milano-Sanremo,2024,tom-paquot,Paquot Tom,Intermarché - Wanty,162,FINISH,FINISH,16:52 16:52
 Milano-Sanremo,2024,silvan-dillier,DILLIER Silvan,Alpecin - Deceuninck,163,FINISH,FINISH,25:00 25:00
@@ -2752,7 +2752,7 @@ Omloop Nieuwsblad,2025,alfred-wright,WRIGHT Fred,Bahrain - Victorious,39,FINISH,
 Omloop Nieuwsblad,2025,kasper-asgreen,ASGREEN Kasper,EF Education - EasyPost,40,FINISH,FINISH,",, 0:00"
 Omloop Nieuwsblad,2025,jonas-rutsch,RUTSCH Jonas,Intermarché - Wanty,41,FINISH,FINISH,",, 0:00"
 Omloop Nieuwsblad,2025,antonio-morgado,MORGADO António,UAE Team Emirates - XRG,42,FINISH,FINISH,",, 0:00"
-Omloop Nieuwsblad,2025,jhonatan-narvaez,Narváez Jhonatan,UAE Team Emirates - XRG,43,FINISH,FINISH,",, 0:00"
+Omloop Nieuwsblad,2025,jhonatan-narvaez,NARVÁEZ Jhonatan,UAE Team Emirates - XRG,43,FINISH,FINISH,",, 0:00"
 Omloop Nieuwsblad,2025,tiesj-benoot,Benoot Tiesj,Team Visma | Lease a Bike,44,FINISH,FINISH,",, 0:00"
 Omloop Nieuwsblad,2025,dylan-teuns,TEUNS Dylan,Cofidis,45,FINISH,FINISH,",, 0:00"
 Omloop Nieuwsblad,2025,tim-wellens,WELLENS Tim,UAE Team Emirates - XRG,46,FINISH,FINISH,",, 0:00"
@@ -2878,7 +2878,7 @@ Omloop Nieuwsblad,2025,guillaume-boivin,BOIVIN Guillaume,Israel - Premier Tech,1
 Omloop Nieuwsblad,2025,riley-pickrell,Pickrell Riley,Israel - Premier Tech,184,DNF,DNF,
 Omloop Nieuwsblad,2025,frederik-frison,FRISON Frederik,Q36.5 Pro Cycling Team,213,DNF,DNF,
 Omloop Nieuwsblad,2025,kamil-malecki,MAŁECKI Kamil,Q36.5 Pro Cycling Team,214,DNF,DNF,
-Omloop Nieuwsblad,2025,nicolo-parisini,Parisini Nicolò,Q36.5 Pro Cycling Team,216,DNF,DNF,
+Omloop Nieuwsblad,2025,nicolo-parisini,PARISINI Nicolò,Q36.5 Pro Cycling Team,216,DNF,DNF,
 Omloop Nieuwsblad,2025,alex-colman,Colman Alex,Team Flanders - Baloise,221,DNF,DNF,
 Omloop Nieuwsblad,2025,yentl-vandevelde,Vandevelde Yentl,Team Flanders - Baloise,224,DNF,DNF,
 Omloop Nieuwsblad,2024,jan-tratnik,TRATNIK Jan,Team Visma | Lease a Bike,1,FINISH,FINISH,4:31:28 4:31:28
@@ -2915,7 +2915,7 @@ Omloop Nieuwsblad,2024,warre-vangheluwe,VANGHELUWE Warre,Soudal Quick-Step,27,DN
 Omloop Nieuwsblad,2024,cedric-beullens,BEULLENS Cedric,Lotto Dstny,28,FINISH,FINISH,",, 0:08"
 Omloop Nieuwsblad,2024,matteo-jorgenson,JORGENSON Matteo,Team Visma | Lease a Bike,29,FINISH,FINISH,",, 0:08"
 Omloop Nieuwsblad,2024,damien-touze,Touzé Damien,Decathlon AG2R La Mondiale Team,30,FINISH,FINISH,",, 0:08"
-Omloop Nieuwsblad,2024,aleksey-lutsenko,Lutsenko Alexey,Astana Qazaqstan Team,31,FINISH,FINISH,",, 0:08"
+Omloop Nieuwsblad,2024,aleksey-lutsenko,LUTSENKO Alexey,Astana Qazaqstan Team,31,FINISH,FINISH,",, 0:08"
 Omloop Nieuwsblad,2024,rasmus-tiller,TILLER Rasmus,Uno-X Mobility,32,FINISH,FINISH,",, 0:08"
 Omloop Nieuwsblad,2024,marco-haller,HALLER Marco,BORA - hansgrohe,33,FINISH,FINISH,",, 0:08"
 Omloop Nieuwsblad,2024,dylan-van-baarle,VAN BAARLE Dylan,Team Visma | Lease a Bike,34,FINISH,FINISH,",, 0:08"
@@ -2942,7 +2942,7 @@ Omloop Nieuwsblad,2024,luke-durbridge,DURBRIDGE Luke,Team Jayco AlUla,53,FINISH,
 Omloop Nieuwsblad,2024,max-kanter,KANTER Max,Astana Qazaqstan Team,54,DNF,DNF,
 Omloop Nieuwsblad,2024,jonas-rutsch,RUTSCH Jonas,EF Education - EasyPost,54,FINISH,FINISH,",, 1:41"
 Omloop Nieuwsblad,2024,biniam-girmay,GIRMAY Biniam,Intermarché - Wanty,55,FINISH,FINISH,",, 1:41"
-Omloop Nieuwsblad,2024,nicolo-parisini,Parisini Nicolò,Q36.5 Pro Cycling Team,56,FINISH,FINISH,2:26 2:26
+Omloop Nieuwsblad,2024,nicolo-parisini,PARISINI Nicolò,Q36.5 Pro Cycling Team,56,FINISH,FINISH,2:26 2:26
 Omloop Nieuwsblad,2024,sean-flynn,FLYNN Sean,Team dsm-firmenich PostNL,57,FINISH,FINISH,",, 2:26"
 Omloop Nieuwsblad,2024,rudiger-selig,Selig Rüdiger,Astana Qazaqstan Team,57,DNF,DNF,
 Omloop Nieuwsblad,2024,ben-turner,TURNER Ben,INEOS Grenadiers,58,FINISH,FINISH,3:55 3:55
@@ -3032,7 +3032,7 @@ Omloop Nieuwsblad,2024,blake-quick,Quick Blake,Team Jayco AlUla,125,FINISH,FINIS
 Omloop Nieuwsblad,2024,bob-jungels,Jungels Bob,BORA - hansgrohe,126,FINISH,FINISH,",, 13:07"
 Omloop Nieuwsblad,2024,campbell-stewart,Stewart Campbell,Team Jayco AlUla,127,FINISH,FINISH,",, 13:07"
 Omloop Nieuwsblad,2024,luca-mozzato,MOZZATO Luca,Arkéa - B&B Hotels,128,FINISH,FINISH,",, 13:07"
-Omloop Nieuwsblad,2024,samuele-battistella,Battistella Samuele,Astana Qazaqstan Team,129,FINISH,FINISH,",, 13:07"
+Omloop Nieuwsblad,2024,samuele-battistella,BATTISTELLA Samuele,Astana Qazaqstan Team,129,FINISH,FINISH,",, 13:07"
 Omloop Nieuwsblad,2024,stefan-bissegger,BISSEGGER Stefan,EF Education - EasyPost,130,FINISH,FINISH,",, 13:07"
 Omloop Nieuwsblad,2024,oscar-riesebeek,RIESEBEEK Oscar,Alpecin - Deceuninck,131,FINISH,FINISH,",, 13:07"
 Omloop Nieuwsblad,2024,quinten-hermans,HERMANS Quinten,Alpecin - Deceuninck,132,FINISH,FINISH,",, 13:07"
@@ -3229,7 +3229,7 @@ Paris-Roubaix,2025,patrick-eddy,Eddy Patrick,Team Picnic PostNL,222,DNF,DNF,
 Paris-Roubaix,2025,enzo-leijnse,Leijnse Enzo,Team Picnic PostNL,224,DNF,DNF,
 Paris-Roubaix,2025,niklas-markl,MÄRKL Niklas,Team Picnic PostNL,225,DNF,DNF,
 Paris-Roubaix,2025,julius-van-den-berg,VAN DEN BERG Julius,Team Picnic PostNL,227,DNF,DNF,
-Paris-Roubaix,2025,joseph-pidcock,Pidcock Joseph,Q36.5 Pro Cycling Team,235,OTL,OTL,53:40 53:40
+Paris-Roubaix,2025,joseph-pidcock,PIDCOCK Joseph,Q36.5 Pro Cycling Team,235,OTL,OTL,53:40 53:40
 Paris-Roubaix,2025,jannik-steimle,Steimle Jannik,Q36.5 Pro Cycling Team,236,DNF,DNF,
 Paris-Roubaix,2024,mathieu-van-der-poel,VAN DER POEL Mathieu,Alpecin - Deceuninck,1,FINISH,FINISH,5:25:58 5:25:58
 Paris-Roubaix,2024,jasper-philipsen,PHILIPSEN Jasper,Alpecin - Deceuninck,2,FINISH,FINISH,3:00 3:00
@@ -3521,7 +3521,7 @@ Ronde Van Brugge - Tour of Bruges,2025,joren-bloem2,BLOEM Joren,Unibet Tietema R
 Ronde Van Brugge - Tour of Bruges,2025,abram-stockman,STOCKMAN Abram,Unibet Tietema Rockets,104,FINISH,FINISH,",, 2:27"
 Ronde Van Brugge - Tour of Bruges,2025,vincenzo-albanese,ALBANESE Vincenzo,EF Education - EasyPost,105,FINISH,FINISH,2:28 2:28
 Ronde Van Brugge - Tour of Bruges,2025,jack-rootkin-gray,Rootkin-Gray Jack,EF Education - EasyPost,106,FINISH,FINISH,2:31 2:31
-Ronde Van Brugge - Tour of Bruges,2025,nikias-arndt,Arndt Nikias,Bahrain - Victorious,107,DNF,DNF,
+Ronde Van Brugge - Tour of Bruges,2025,nikias-arndt,ARNDT Nikias,Bahrain - Victorious,107,DNF,DNF,
 Ronde Van Brugge - Tour of Bruges,2025,samuel-gaze,Gaze Samuel,Alpecin - Deceuninck,107,FINISH,FINISH,2:41 2:41
 Ronde Van Brugge - Tour of Bruges,2025,max-walker,WALKER Max,EF Education - EasyPost,108,FINISH,FINISH,",, 2:41"
 Ronde Van Brugge - Tour of Bruges,2025,lukas-kubis,KUBIŠ Lukáš,Unibet Tietema Rockets,109,FINISH,FINISH,",, 2:41"
@@ -3753,7 +3753,7 @@ Ronde van Vlaanderen,2025,mike-teunissen,TEUNISSEN Mike,XDS Astana Team,12,FINIS
 Ronde van Vlaanderen,2025,michael-matthews,MATTHEWS Michael,Team Jayco AlUla,13,FINISH,FINISH,",, 2:19"
 Ronde van Vlaanderen,2025,tim-wellens,WELLENS Tim,UAE Team Emirates - XRG,13,DNF,DNF,
 Ronde van Vlaanderen,2025,markus-hoelgaard,HOELGAARD Markus,Uno-X Mobility,14,FINISH,FINISH,",, 2:19"
-Ronde van Vlaanderen,2025,jhonatan-narvaez,Narváez Jhonatan,UAE Team Emirates - XRG,14,DNF,DNF,
+Ronde van Vlaanderen,2025,jhonatan-narvaez,NARVÁEZ Jhonatan,UAE Team Emirates - XRG,14,DNF,DNF,
 Ronde van Vlaanderen,2025,gianni-vermeersch,VERMEERSCH Gianni,Alpecin - Deceuninck,15,FINISH,FINISH,",, 2:19"
 Ronde van Vlaanderen,2025,aurelien-paret-peintre,PARET-PEINTRE Aurélien,Decathlon AG2R La Mondiale Team,16,FINISH,FINISH,",, 2:19"
 Ronde van Vlaanderen,2025,mikkel-bjerg,BJERG Mikkel,UAE Team Emirates - XRG,17,DNF,DNF,
@@ -3889,7 +3889,7 @@ Ronde van Vlaanderen,2025,enzo-leijnse,Leijnse Enzo,Team Picnic PostNL,175,DNF,D
 Ronde van Vlaanderen,2025,tim-naberman,NABERMAN Tim,Team Picnic PostNL,176,DNF,DNF,
 Ronde van Vlaanderen,2025,timo-roosen,ROOSEN Timo,Team Picnic PostNL,177,DNF,DNF,
 Ronde van Vlaanderen,2025,emils-liepins,LIEPIŅŠ Emīls,Q36.5 Pro Cycling Team,183,DNF,DNF,
-Ronde van Vlaanderen,2025,nicolo-parisini,Parisini Nicolò,Q36.5 Pro Cycling Team,187,DNF,DNF,
+Ronde van Vlaanderen,2025,nicolo-parisini,PARISINI Nicolò,Q36.5 Pro Cycling Team,187,DNF,DNF,
 Ronde van Vlaanderen,2025,lennert-van-eetvelt,VAN EETVELT Lennert,Lotto,191,DNF,DNF,
 Ronde van Vlaanderen,2025,joshua-giddings,GIDDINGS Joshua,Lotto,192,DNF,DNF,
 Ronde van Vlaanderen,2025,jenno-berckmoes,BERCKMOES Jenno,Lotto,194,DNF,DNF,
@@ -4251,7 +4251,7 @@ Strade Bianche,2025,alex-martin-gutierrez,Martín Alex,Team Polti VisitMalta,203
 Strade Bianche,2025,gabriele-raccagni,RACCAGNI Gabriele,Team Polti VisitMalta,204,DNF,DNF,
 Strade Bianche,2025,javier-serrano,Serrano Javier,Team Polti VisitMalta,205,DNF,DNF,
 Strade Bianche,2025,diego-pablo-sevilla,SEVILLA Diego Pablo,Team Polti VisitMalta,206,DNF,DNF,
-Strade Bianche,2025,menno-huising,Huising Menno,Team Visma | Lease a Bike,213,DNF,DNF,
+Strade Bianche,2025,menno-huising,HUISING Menno,Team Visma | Lease a Bike,213,DNF,DNF,
 Strade Bianche,2025,tosh-van-der-sande,Van der Sande Tosh,Team Visma | Lease a Bike,216,DNF,DNF,
 Strade Bianche,2025,julien-vermote,Vermote Julien,Team Visma | Lease a Bike,217,DNF,DNF,
 Strade Bianche,2025,roland-thalmann,THALMANN Roland,Tudor Pro Cycling Team,224,DNF,DNF,
@@ -4273,7 +4273,7 @@ Strade Bianche,2024,lenny-martinez,MARTINEZ Lenny,Groupama - FDJ,8,FINISH,FINISH
 Strade Bianche,2024,filippo-zana,ZANA Filippo,Team Jayco AlUla,9,FINISH,FINISH,4:49 4:49
 Strade Bianche,2024,christophe-laporte,LAPORTE Christophe,Team Visma | Lease a Bike,10,FINISH,FINISH,5:17 5:17
 Strade Bianche,2024,lennert-van-eetvelt,VAN EETVELT Lennert,Lotto Dstny,11,FINISH,FINISH,5:20 5:20
-Strade Bianche,2024,nicola-conci,Conci Nicola,Alpecin - Deceuninck,12,OTL,OTL,33:06 33:06
+Strade Bianche,2024,nicola-conci,CONCI Nicola,Alpecin - Deceuninck,12,OTL,OTL,33:06 33:06
 Strade Bianche,2024,ben-healy,HEALY Ben,EF Education - EasyPost,12,FINISH,FINISH,5:23 5:23
 Strade Bianche,2024,tim-wellens,WELLENS Tim,UAE Team Emirates,13,FINISH,FINISH,6:04 6:04
 Strade Bianche,2024,francesco-busatto,BUSATTO Francesco,Intermarché - Wanty,14,FINISH,FINISH,6:26 6:26
@@ -4304,7 +4304,7 @@ Strade Bianche,2024,gleb-brussenskiy,Brussenskiy Gleb,Astana Qazaqstan Team,32,D
 Strade Bianche,2024,gianni-vermeersch,VERMEERSCH Gianni,Alpecin - Deceuninck,32,FINISH,FINISH,10:16 10:16
 Strade Bianche,2024,yevgeniy-fedorov,FEDOROV Yevgeniy,Astana Qazaqstan Team,33,DNF,DNF,
 Strade Bianche,2024,gianmarco-garofoli,GAROFOLI Gianmarco,Astana Qazaqstan Team,33,FINISH,FINISH,10:18 10:18
-Strade Bianche,2024,sergio-higuita,Higuita Sergio,BORA - hansgrohe,34,FINISH,FINISH,10:23 10:23
+Strade Bianche,2024,sergio-higuita,HIGUITA Sergio,BORA - hansgrohe,34,FINISH,FINISH,10:23 10:23
 Strade Bianche,2024,michele-gazzoli,Gazzoli Michele,Astana Qazaqstan Team,35,DNF,DNF,
 Strade Bianche,2024,gonzalo-serrano,SERRANO Gonzalo,Movistar Team,35,FINISH,FINISH,",, 10:23"
 Strade Bianche,2024,harold-martin-lopez,López Harold Martín,Astana Qazaqstan Team,36,OTL,OTL,",, 33:06"
@@ -4393,7 +4393,7 @@ Strade Bianche,2024,lewis-askey,ASKEY Lewis,Groupama - FDJ,104,FINISH,FINISH,21:
 Strade Bianche,2024,tom-paquot,Paquot Tom,Intermarché - Wanty,104,DNF,DNF,
 Strade Bianche,2024,riley-sheehan,SHEEHAN Riley,Israel - Premier Tech,105,FINISH,FINISH,25:33 25:33
 Strade Bianche,2024,rein-taaramae,Taaramäe Rein,Intermarché - Wanty,107,DNF,DNF,
-Strade Bianche,2024,marco-frigo,Frigo Marco,Israel - Premier Tech,113,DNF,DNF,
+Strade Bianche,2024,marco-frigo,FRIGO Marco,Israel - Premier Tech,113,DNF,DNF,
 Strade Bianche,2024,fabio-felline,Felline Fabio,Lidl - Trek,122,DNF,DNF,
 Strade Bianche,2024,quinn-simmons,SIMMONS Quinn,Lidl - Trek,124,DNF,DNF,
 Strade Bianche,2024,edward-theuns,THEUNS Edward,Lidl - Trek,126,DNF,DNF,
@@ -4426,7 +4426,7 @@ Strade Bianche,2024,diego-pablo-sevilla,SEVILLA Diego Pablo,Team Polti Kometa,19
 Strade Bianche,2024,sepp-kuss,Kuss Sepp,Team Visma | Lease a Bike,202,DNF,DNF,
 Strade Bianche,2024,tosh-van-der-sande,Van der Sande Tosh,Team Visma | Lease a Bike,206,DNF,DNF,
 Strade Bianche,2024,julien-vermote,Vermote Julien,Team Visma | Lease a Bike,207,DNF,DNF,
-Strade Bianche,2024,alexander-kamp,Kamp Alexander,Tudor Pro Cycling Team,214,DNF,DNF,
+Strade Bianche,2024,alexander-kamp,KAMP Alexander,Tudor Pro Cycling Team,214,DNF,DNF,
 Strade Bianche,2024,roland-thalmann,THALMANN Roland,Tudor Pro Cycling Team,215,DNF,DNF,
 Strade Bianche,2024,jan-christen,CHRISTEN Jan,UAE Team Emirates,223,DNF,DNF,
 Strade Bianche,2024,isaac-del-toro,DEL TORO Isaac,UAE Team Emirates,224,DNF,DNF,
