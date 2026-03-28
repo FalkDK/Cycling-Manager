@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-03-28T20:37:38.854283+01:00",
+  "generated_at": "2026-03-28T21:38:00.116708+01:00",
   "season": 2026,
   "history_seasons": [
     2024,
-    2025
+    2025,
+    2026
   ],
   "cartridge_slug": "classics-manager-2026",
   "files": {
@@ -15,7 +16,7 @@
   "row_counts": {
     "current_startlist": 1723,
     "startlist_changes": 2439,
-    "race_history_rankings": 4435,
+    "race_history_rankings": 5282,
     "manager_riders_enriched": 874
   }
 }
