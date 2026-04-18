@@ -1,0 +1,18 @@
+[project]
+name = "fantasy-cycling-pcs"
+version = "0.1.0"
+description = "PCS-only ingestion pipeline for fantasy cycling startlists and results."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+ui = ["streamlit>=1.30", "pandas>=2.0"]
+giro = ["playwright>=1.58"]
+
+[project.scripts]
+fantasy-cycling = "fantasy_cycling.cli:main"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"

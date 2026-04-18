@@ -11,6 +11,8 @@ from urllib.request import urlopen
 import pandas as pd
 import streamlit as st
 
+from giro.ui import render_giro_workspace
+
 RACES = [
     "Omloop Nieuwsblad",
     "Strade Bianche",
@@ -700,6 +702,19 @@ def build_candidate_score_frame(
 def app() -> None:
     st.set_page_config(page_title="Fantasy Cycling Snapshot", layout="wide")
     inject_styles()
+
+    with st.sidebar:
+        workspace = st.selectbox(
+            "Workspace",
+            options=["Classics Snapshot", "Giro"],
+            index=0,
+            key="workspace_select",
+        )
+
+    if workspace == "Giro":
+        render_giro_workspace()
+        return
+
     st.markdown(
         """
         <div class="app-shell">
