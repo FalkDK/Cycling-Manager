@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T21:24:39.413142+02:00",
+  "generated_at": "2026-04-18T12:46:44.788103+02:00",
   "season": 2026,
   "history_seasons": [
     2024,
@@ -14,9 +14,9 @@
     "manager_riders_enriched": "manager_riders_enriched.csv"
   },
   "row_counts": {
-    "current_startlist": 1730,
-    "startlist_changes": 2582,
-    "race_history_rankings": 5632,
-    "manager_riders_enriched": 874
+    "current_startlist": 1887,
+    "startlist_changes": 2877,
+    "race_history_rankings": 5982,
+    "manager_riders_enriched": 875
   }
 }
