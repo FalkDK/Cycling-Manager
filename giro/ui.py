@@ -146,9 +146,9 @@ def _format_number(value: object, decimals: int = 0) -> str:
     return f"{float(value):.{decimals}f}"
 
 
-def _set_selected_rider(holdet_person_id: int | None) -> None:
+def _set_selected_rider(state_key: str, holdet_person_id: int | None) -> None:
     if holdet_person_id is not None:
-        st.session_state["giro_selected_person_id"] = int(holdet_person_id)
+        st.session_state[state_key] = int(holdet_person_id)
 
 
 def _render_selectable_table(rows: pd.DataFrame, display_columns: list[str], key: str) -> int | None:
@@ -175,7 +175,7 @@ def _render_selectable_table(rows: pd.DataFrame, display_columns: list[str], key
     return int(selectable_rows.iloc[selected_rows[0]]["holdet_person_id"])
 
 
-def _render_rider_selector(rows: pd.DataFrame, label: str, key: str) -> None:
+def _render_rider_selector(rows: pd.DataFrame, label: str, key: str, state_key: str) -> None:
     if rows.empty:
         return
     options = rows[["holdet_person_id", "holdet_rider_name", "holdet_team_name", "pcs_rider_id"]].copy()
@@ -185,11 +185,11 @@ def _render_rider_selector(rows: pd.DataFrame, label: str, key: str) -> None:
     )
     option_labels = options["label"].tolist()
     option_ids = options["holdet_person_id"].astype(int).tolist()
-    current_id = st.session_state.get("giro_selected_person_id")
+    current_id = st.session_state.get(state_key)
     default_index = option_ids.index(current_id) if current_id in option_ids else 0
     selected_label = st.selectbox(label, options=option_labels, index=default_index, key=key)
     selected_id = int(options.iloc[option_labels.index(selected_label)]["holdet_person_id"])
-    _set_selected_rider(selected_id)
+    _set_selected_rider(state_key, selected_id)
 
 
 def _render_grouped_browser(
@@ -197,6 +197,7 @@ def _render_grouped_browser(
     group_column: str | None,
     display_columns: list[str],
     key_prefix: str,
+    state_key: str,
 ) -> None:
     if rows.empty:
         st.info("No riders match the current filters.")
@@ -204,7 +205,7 @@ def _render_grouped_browser(
 
     if not group_column:
         selected_id = _render_selectable_table(rows, display_columns, key=f"{key_prefix}_all")
-        _set_selected_rider(selected_id)
+        _set_selected_rider(state_key, selected_id)
         return
 
     group_summary = (
@@ -227,7 +228,7 @@ def _render_grouped_browser(
                 display_columns,
                 key=f"{key_prefix}_{str(title).lower().replace(' ', '_')}",
             )
-            _set_selected_rider(selected_id)
+            _set_selected_rider(state_key, selected_id)
 
 
 def _prepare_manager_rows(browser_df: pd.DataFrame) -> pd.DataFrame:
@@ -242,7 +243,7 @@ def _prepare_trading_rows(browser_df: pd.DataFrame) -> pd.DataFrame:
     return rows.sort_values(["holdet_team_name", "trading_price", "holdet_rider_name"]).reset_index(drop=True)
 
 
-def _render_manager_tab(browser_df: pd.DataFrame) -> None:
+def _render_manager_tab(browser_df: pd.DataFrame, result_df: pd.DataFrame) -> None:
     manager_rows = _prepare_manager_rows(browser_df)
     controls = st.columns([1.0, 1.3, 1.7])
     group_by_label = controls[0].selectbox(
@@ -288,11 +289,23 @@ def _render_manager_tab(browser_df: pd.DataFrame) -> None:
             "pcs_rider_id",
         ],
         key_prefix="giro_manager",
+        state_key="giro_manager_selected_person_id",
     )
-    _render_rider_selector(filtered, "Open manager rider detail", key="giro_manager_detail_select")
+    _render_rider_selector(
+        filtered,
+        "Open manager rider detail",
+        key="giro_manager_detail_select",
+        state_key="giro_manager_selected_person_id",
+    )
+    _render_rider_detail(
+        browser_df,
+        result_df,
+        selected_id=st.session_state.get("giro_manager_selected_person_id"),
+        header="Manager rider detail",
+    )
 
 
-def _render_trading_tab(browser_df: pd.DataFrame) -> None:
+def _render_trading_tab(browser_df: pd.DataFrame, result_df: pd.DataFrame) -> None:
     trading_rows = _prepare_trading_rows(browser_df)
     min_price = int(trading_rows["trading_price"].min()) if not trading_rows.empty else 0
     max_price = int(trading_rows["trading_price"].max()) if not trading_rows.empty else 0
@@ -348,8 +361,20 @@ def _render_trading_tab(browser_df: pd.DataFrame) -> None:
             "pcs_rider_id",
         ],
         key_prefix="giro_trading",
+        state_key="giro_trading_selected_person_id",
     )
-    _render_rider_selector(filtered, "Open trading rider detail", key="giro_trading_detail_select")
+    _render_rider_selector(
+        filtered,
+        "Open trading rider detail",
+        key="giro_trading_detail_select",
+        state_key="giro_trading_selected_person_id",
+    )
+    _render_rider_detail(
+        browser_df,
+        result_df,
+        selected_id=st.session_state.get("giro_trading_selected_person_id"),
+        header="Trading rider detail",
+    )
 
 
 def _render_rider_overview(row: pd.Series) -> None:
@@ -420,8 +445,12 @@ def _render_history_table(rows: pd.DataFrame, empty_message: str) -> None:
     st.dataframe(display, use_container_width=True, hide_index=True)
 
 
-def _render_rider_detail(browser_df: pd.DataFrame, result_df: pd.DataFrame) -> None:
-    selected_id = st.session_state.get("giro_selected_person_id")
+def _render_rider_detail(
+    browser_df: pd.DataFrame,
+    result_df: pd.DataFrame,
+    selected_id: int | None,
+    header: str,
+) -> None:
     if selected_id is None:
         st.info("Select a rider above to inspect full Giro history and game context.")
         return
@@ -440,7 +469,7 @@ def _render_rider_detail(browser_df: pd.DataFrame, result_df: pd.DataFrame) -> N
     results_2026 = rider_results[rider_results["season"] == 2026].copy()
 
     st.markdown("---")
-    st.subheader(f"{row['holdet_rider_name']} detail")
+    st.subheader(f"{header}: {row['holdet_rider_name']}")
     detail_tabs = st.tabs(["Overview", "2026 Results", "2025 Grand Tours", "All Imported"])
 
     with detail_tabs[0]:
@@ -513,8 +542,6 @@ def render_giro_workspace() -> None:
 
     game_tabs = st.tabs(["Manager", "Trading"])
     with game_tabs[0]:
-        _render_manager_tab(browser_df)
+        _render_manager_tab(browser_df, result_df)
     with game_tabs[1]:
-        _render_trading_tab(browser_df)
-
-    _render_rider_detail(browser_df, result_df)
+        _render_trading_tab(browser_df, result_df)
