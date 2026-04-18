@@ -4,3 +4,4 @@ __pycache__/
 *.pyo
 *.pyd
 giro/__pycache__/
+publish_snapshot.sh
