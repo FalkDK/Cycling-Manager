@@ -5,3 +5,4 @@ __pycache__/
 *.pyd
 giro/__pycache__/
 publish_snapshot.sh
+publish_public_app.sh
