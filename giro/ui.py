@@ -6,7 +6,6 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
-from fantasy_cycling.db import DatabaseError, PostgresClient, Repository
 from giro.snapshot import (
     BROWSER_COLUMNS,
     RESULT_COLUMNS,
@@ -15,19 +14,30 @@ from giro.snapshot import (
     load_giro_snapshot,
 )
 
+
+class DatabaseError(RuntimeError):
+    pass
+
+
 def _schema_path() -> str:
     return os.fspath(Path(__file__).resolve().with_name("schema.sql"))
 
 
 @st.cache_resource(show_spinner=False)
-def _get_repository(db_url: str) -> Repository:
+def _get_repository(db_url: str):
+    try:
+        from fantasy_cycling.db import PostgresClient, Repository
+    except ModuleNotFoundError as err:
+        raise DatabaseError(
+            "Database-backed Giro mode is unavailable because the fantasy_cycling package is not installed."
+        ) from err
     client = PostgresClient(db_url=db_url or None)
     repo = Repository(client)
     repo.init_schema(_schema_path())
     return repo
 
 
-def _query_df(client: PostgresClient, sql: str, columns: list[str]) -> pd.DataFrame:
+def _query_df(client, sql: str, columns: list[str]) -> pd.DataFrame:
     rows = client.query_rows(sql)
     frame = pd.DataFrame(rows, columns=columns)
     for column in [col for col in columns if col in NUMERIC_COLUMNS]:

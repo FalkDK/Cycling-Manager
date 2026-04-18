@@ -6,11 +6,13 @@ import subprocess
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
+from typing import Any
 
 import pandas as pd
 
-from fantasy_cycling.config import Settings, load_settings
-from fantasy_cycling.db import DatabaseError, PostgresClient, Repository
+
+class DatabaseError(RuntimeError):
+    pass
 
 
 BROWSER_COLUMNS = [
@@ -186,7 +188,7 @@ def load_giro_snapshot(snapshot_dir: str) -> tuple[dict[str, object], pd.DataFra
 
 
 class GiroSnapshotService:
-    def __init__(self, repository: Repository, settings: Settings) -> None:
+    def __init__(self, repository: Any, settings: Any) -> None:
         self.repository = repository
         self.settings = settings
 
@@ -206,6 +208,12 @@ class GiroSnapshotService:
             raise DatabaseError(message)
 
     def export_snapshot(self, output_dir: str) -> GiroSnapshotSummary:
+        try:
+            from fantasy_cycling.db import PostgresClient
+        except ModuleNotFoundError as err:
+            raise DatabaseError(
+                "Giro snapshot export requires the fantasy_cycling package in the local environment."
+            ) from err
         out_path = Path(output_dir).expanduser().resolve()
         out_path.mkdir(parents=True, exist_ok=True)
 
@@ -316,6 +324,13 @@ def _build_parser() -> argparse.ArgumentParser:
 
 
 def main(argv: list[str] | None = None) -> int:
+    try:
+        from fantasy_cycling.config import load_settings
+        from fantasy_cycling.db import PostgresClient, Repository
+    except ModuleNotFoundError as err:
+        raise SystemExit(
+            "Giro snapshot export requires the local fantasy_cycling package."
+        ) from err
     parser = _build_parser()
     args = parser.parse_args(argv)
 
