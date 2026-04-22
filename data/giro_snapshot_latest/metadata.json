@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T15:08:31.438097+02:00",
+  "generated_at": "2026-04-22T20:53:26.423298+02:00",
   "files": {
     "rider_browser": "giro_rider_browser.csv",
     "rider_results": "giro_rider_results.csv"
   },
   "row_counts": {
-    "rider_browser": 91,
-    "rider_results": 4203
+    "rider_browser": 92,
+    "rider_results": 4237
   }
 }
