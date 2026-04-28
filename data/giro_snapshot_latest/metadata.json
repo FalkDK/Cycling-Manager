@@ -1,11 +1,39 @@
 {
-  "generated_at": "2026-04-27T11:52:23.465017+02:00",
+  "generated_at": "2026-04-28T20:43:38.555083+02:00",
   "files": {
     "rider_browser": "giro_rider_browser.csv",
-    "rider_results": "giro_rider_results.csv"
+    "rider_results": "giro_rider_results.csv",
+    "scoring_rules": "giro_scoring_rules.csv"
   },
   "row_counts": {
     "rider_browser": 95,
-    "rider_results": 4351
-  }
+    "rider_results": 4351,
+    "scoring_rules": 0
+  },
+  "games": [
+    {
+      "cartridge_slug": "giro-d-italia-2026",
+      "game_name": "Girospillet",
+      "game_mode": "TRADING",
+      "salary_cap": 50000000,
+      "allows_stage_substitutions": true,
+      "transfer_fee": 0.01,
+      "interest_rate": 0.005,
+      "captain_bonus_assets": 1,
+      "captain_bonus_points": 0,
+      "ruleset_name": "Cycling Trading 8 Riders - 2025"
+    },
+    {
+      "cartridge_slug": "giro-d-italia-manager-2026",
+      "game_name": "Giro Manager",
+      "game_mode": "MANAGER",
+      "salary_cap": 0,
+      "allows_stage_substitutions": true,
+      "transfer_fee": 0.0,
+      "interest_rate": 0.0,
+      "captain_bonus_assets": 0,
+      "captain_bonus_points": 1,
+      "ruleset_name": "Cycling classic 2025"
+    }
+  ]
 }
