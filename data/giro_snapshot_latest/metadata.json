@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-04-28T20:43:38.555083+02:00",
+  "generated_at": "2026-04-28T20:44:55.754810+02:00",
   "files": {
     "rider_browser": "giro_rider_browser.csv",
     "rider_results": "giro_rider_results.csv",
     "scoring_rules": "giro_scoring_rules.csv"
   },
   "row_counts": {
-    "rider_browser": 95,
-    "rider_results": 4351,
-    "scoring_rules": 0
+    "rider_browser": 96,
+    "rider_results": 4421,
+    "scoring_rules": 68
   },
   "games": [
     {

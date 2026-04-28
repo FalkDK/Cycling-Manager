@@ -1,1 +1,69 @@
 cartridge_slug,game_mode,rule_id,rule_name,rule_title,rule_value,rule_assets,rule_order
+giro-d-italia-2026,TRADING,849,StagePosition1,Etapeplacering - 1. plads,,,0
+giro-d-italia-2026,TRADING,850,StagePosition2,Etapeplacering - 2. plads,,,1
+giro-d-italia-2026,TRADING,851,StagePosition3,Etapeplacering - 3. plads,,,2
+giro-d-italia-2026,TRADING,852,StagePosition4,Etapeplacering - 4. plads,,,3
+giro-d-italia-2026,TRADING,853,StagePosition5,Etapeplacering - 5. plads,,,4
+giro-d-italia-2026,TRADING,854,StagePosition6,Etapeplacering - 6. plads,,,5
+giro-d-italia-2026,TRADING,855,StagePosition7,Etapeplacering - 7. plads,,,6
+giro-d-italia-2026,TRADING,856,StagePosition8,Etapeplacering - 8. plads,,,7
+giro-d-italia-2026,TRADING,857,StagePosition9,Etapeplacering - 9. plads,,,8
+giro-d-italia-2026,TRADING,858,StagePosition10,Etapeplacering - 10. plads,,,9
+giro-d-italia-2026,TRADING,859,StagePosition11,Etapeplacering - 11. plads,,,10
+giro-d-italia-2026,TRADING,860,StagePosition12,Etapeplacering - 12. plads,,,11
+giro-d-italia-2026,TRADING,861,StagePosition13,Etapeplacering - 13. plads,,,12
+giro-d-italia-2026,TRADING,862,StagePosition14,Etapeplacering - 14. plads,,,13
+giro-d-italia-2026,TRADING,863,StagePosition15,Etapeplacering - 15. plads,,,14
+giro-d-italia-2026,TRADING,864,OverallPosition1,Løbsplacering - 1. plads,,,15
+giro-d-italia-2026,TRADING,865,OverallPosition2,Løbsplacering - 2. plads,,,16
+giro-d-italia-2026,TRADING,866,OverallPosition3,Løbsplacering - 3. plads,,,17
+giro-d-italia-2026,TRADING,867,OverallPosition4,Løbsplacering - 4. plads,,,18
+giro-d-italia-2026,TRADING,868,OverallPosition5,Løbsplacering - 5. plads,,,19
+giro-d-italia-2026,TRADING,869,OverallPosition6,Løbsplacering - 6. plads,,,20
+giro-d-italia-2026,TRADING,870,OverallPosition7,Løbsplacering - 7. plads,,,21
+giro-d-italia-2026,TRADING,871,OverallPosition8,Løbsplacering - 8. plads,,,22
+giro-d-italia-2026,TRADING,872,OverallPosition9,Løbsplacering - 9. plads,,,23
+giro-d-italia-2026,TRADING,873,OverallPosition10,Løbsplacering - 10. plads,,,24
+giro-d-italia-2026,TRADING,874,SprintPoint,Sprintpoint,,,25
+giro-d-italia-2026,TRADING,875,ClimbPoint,Bjergpoint,,,26
+giro-d-italia-2026,TRADING,876,ClassificationLeader,Førertrøjen,,,27
+giro-d-italia-2026,TRADING,877,PointLeader,Pointtrøjen,,,28
+giro-d-italia-2026,TRADING,878,ClimbLeader,Bjergtrøjen,,,29
+giro-d-italia-2026,TRADING,879,YouthLeader,Ungdomstrøjen,,,30
+giro-d-italia-2026,TRADING,880,TeamTimeTrialPosition1,Holdtidskørsel - 1. plads,,,31
+giro-d-italia-2026,TRADING,881,TeamTimeTrialPosition2,Holdtidskørsel - 2. plads,,,32
+giro-d-italia-2026,TRADING,882,TeamTimeTrialPosition3,Holdtidskørsel - 3. plads,,,33
+giro-d-italia-manager-2026,MANAGER,1036,OverallYouthPosition,OverallYouthPosition,,,0
+giro-d-italia-manager-2026,MANAGER,1037,OverallSprintPosition,OverallSprintPosition,,,1
+giro-d-italia-manager-2026,MANAGER,1038,OverallPosition,OverallPosition,,,2
+giro-d-italia-manager-2026,MANAGER,1039,StagePosition,StagePosition,,,3
+giro-d-italia-manager-2026,MANAGER,1040,OverallClimbPosition,OverallClimbPosition,,,4
+giro-d-italia-manager-2026,MANAGER,1041,StageSprintPoints,StageSprintPoints,,,5
+giro-d-italia-manager-2026,MANAGER,1042,StageClimbPoints,StageClimbPoints,,,6
+giro-d-italia-manager-2026,MANAGER,1043,OverallClimbPosition_1,OverallClimbPosition,,,7
+giro-d-italia-manager-2026,MANAGER,1026,TeamTimeTrialPosition1,Holdtidskørsel - 1. plads,,,8
+giro-d-italia-manager-2026,MANAGER,986,OverallPosition1,Placering - 1. plads,,,9
+giro-d-italia-manager-2026,MANAGER,996,OverallSprintPosition1,Sprinttrøje placering - 1. plads,,,10
+giro-d-italia-manager-2026,MANAGER,1006,OverallClimbPosition1,Bjergtrøje placering - 1. plads,,,11
+giro-d-italia-manager-2026,MANAGER,1016,OverallTeamPosition1,Holdplacering - 1. plads,,,12
+giro-d-italia-manager-2026,MANAGER,907,StagePosition1,Etapeplacering - 1. plads,,,13
+giro-d-italia-manager-2026,MANAGER,908,StagePosition2,Etapeplacering - 2. plads,,,14
+giro-d-italia-manager-2026,MANAGER,1017,OverallTeamPosition2,Holdplacering - 2. plads,,,15
+giro-d-italia-manager-2026,MANAGER,1007,OverallClimbPosition2,Bjergtrøje placering - 2. plads,,,16
+giro-d-italia-manager-2026,MANAGER,997,OverallSprintPosition2,Sprinttrøje placering - 2. plads,,,17
+giro-d-italia-manager-2026,MANAGER,987,OverallPosition2,Placering - 2. plads,,,18
+giro-d-italia-manager-2026,MANAGER,1027,TeamTimeTrialPosition2,Holdtidskørsel - 2. plads,,,19
+giro-d-italia-manager-2026,MANAGER,1028,TeamTimeTrialPosition3,Holdtidskørsel - 3. plads,,,20
+giro-d-italia-manager-2026,MANAGER,988,OverallPosition3,Placering - 3. plads,,,21
+giro-d-italia-manager-2026,MANAGER,998,OverallSprintPosition3,Sprinttrøje placering - 3. plads,,,22
+giro-d-italia-manager-2026,MANAGER,1008,OverallClimbPosition3,Bjergtrøje placering - 3. plads,,,23
+giro-d-italia-manager-2026,MANAGER,1018,OverallTeamPosition3,Holdplacering - 3. plads,,,24
+giro-d-italia-manager-2026,MANAGER,909,StagePosition3,Etapeplacering - 3. plads,,,25
+giro-d-italia-manager-2026,MANAGER,910,StagePosition4,Etapeplacering - 4. plads,,,26
+giro-d-italia-manager-2026,MANAGER,1019,OverallTeamPosition4,Holdplacering - 4. plads,,,27
+giro-d-italia-manager-2026,MANAGER,1009,OverallClimbPosition4,Bjergtrøje placering - 4. plads,,,28
+giro-d-italia-manager-2026,MANAGER,999,OverallSprintPosition4,Sprinttrøje placering - 4. plads,,,29
+giro-d-italia-manager-2026,MANAGER,989,OverallPosition4,Placering - 4. plads,,,30
+giro-d-italia-manager-2026,MANAGER,1029,TeamTimeTrialPosition4,Holdtidskørsel - 4. plads,,,31
+giro-d-italia-manager-2026,MANAGER,1030,TeamTimeTrialPosition5,Holdtidskørsel - 5. plads,,,32
+giro-d-italia-manager-2026,MANAGER,990,OverallPosition5,Placering - 5. plads,,,33
